@@ -8,7 +8,8 @@ from infer_name_only import parts, P, has_mx, PERSONAL  # reuse format logic
 SPORT = {'men': 'mbkb', 'women': 'wbkb'}
 EM = re.compile(r'[\w.+-]+@[\w-]+(?:\.[\w-]+)+')
 res = {}
-for f in sorted(glob.glob('data/search/gap_*.csv')):
+import os
+for f in sorted(glob.glob(os.environ.get('GAP_GLOB', 'data/search/gap_*.csv'))):
     for r in csv.DictReader(open(f)):
         sp = SPORT.get((r.get('sport') or '').strip().lower())
         if sp: res[(r['school'].strip(), sp)] = r
