@@ -8,7 +8,7 @@ sys.path.insert(0, 'scraper')
 from coaches import get, H
 from infer_name_only import parts, P, PERSONAL
 
-rows = list(csv.DictReader(open('data/coaches.csv')))
+rows = list(csv.DictReader(open('data/coaches_full.csv')))
 schools = {r['school']: r for r in csv.DictReader(open('data/schools.csv'))}
 heads = [r for r in rows if r['role'] == 'head']
 targets = {r['school'] for r in heads if not r['email'] or r['email_source'] == 'inferred'}
@@ -92,7 +92,7 @@ for r in heads:
     elif not r['email']:
         r['email'] = guess; r['email_source'] = 'inferred'; r['status'] = 'inferred_confirmed_format'; new_inferred += 1
 
-w = csv.DictWriter(open('data/coaches.csv', 'w'), fieldnames=list(rows[0])); w.writeheader(); w.writerows(rows)
+w = csv.DictWriter(open('data/coaches_full.csv', 'w'), fieldnames=list(rows[0])); w.writeheader(); w.writerows(rows)
 json.dump({s: v for s, v in found.items()}, open('data/college_site_emails.json', 'w'), indent=0)
 print('target schools', len(targets), 'with a domain', sum(1 for s in targets if dom[s]),
       'with pages fetched', len(pages_ok), 'with staff emails', sum(1 for v in found.values() if v))

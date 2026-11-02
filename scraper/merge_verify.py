@@ -9,7 +9,7 @@ for f in sorted(glob.glob('data/search/verify_*.csv')):
     for r in csv.DictReader(open(f)):
         sp = SPORT.get((r.get('sport') or '').strip().lower())
         if sp: v[(r['school'].strip(), sp)] = r
-rows = list(csv.DictReader(open('data/coaches.csv'))); c = collections.Counter()
+rows = list(csv.DictReader(open('data/coaches_full.csv'))); c = collections.Counter()
 for r in rows:
     g = v.get((r['school'], r['sport']))
     if r['role'] != 'head' or not g or r['status'] not in ('search_medium_verify', 'search_low_verify'): continue
@@ -22,8 +22,8 @@ for r in rows:
         r['email_source'] = 'web_search' if r['email'] else ''
         r['status'] = 'search_confirmed' if r['email'] else 'search_name_only_medium'
     if g.get('source_url'): r['url'] = g['source_url'].strip()
-csv.DictWriter(open('data/coaches.csv', 'w'), fieldnames=list(rows[0])).writeheader()
-csv.DictWriter(open('data/coaches.csv', 'a'), fieldnames=list(rows[0])).writerows(rows)
+csv.DictWriter(open('data/coaches_full.csv', 'w'), fieldnames=list(rows[0])).writeheader()
+csv.DictWriter(open('data/coaches_full.csv', 'a'), fieldnames=list(rows[0])).writerows(rows)
 heads = [r for r in rows if r['role'] == 'head']
 print('verdicts', dict(c))
 print('teams with head coach email:', len({(r['school'], r['sport']) for r in heads if r['email']}), 'of', len({(r['school'], r['sport']) for r in heads}))

@@ -21,7 +21,7 @@ def has_mx(d):
     return mx[d]
 
 def main():
-    rows = list(csv.DictReader(open('data/coaches.csv'))); F = list(rows[0])
+    rows = list(csv.DictReader(open('data/coaches_full.csv'))); F = list(rows[0])
     learned = collections.defaultdict(collections.Counter)
     for r in rows:
         e = r['email']
@@ -42,7 +42,7 @@ def main():
         if not has_mx(dom): skipped['no_mx'] += 1; continue
         r['email'] = f'{P[p](f, l)}@{dom}'; r['email_source'] = 'inferred'; r['status'] = 'inferred_verify'
         done += 1; examples.append((r['school'][:26], r['name'], r['email'], p))
-    w = csv.DictWriter(open('data/coaches.csv', 'w'), fieldnames=F); w.writeheader(); w.writerows(rows)
+    w = csv.DictWriter(open('data/coaches_full.csv', 'w'), fieldnames=F); w.writeheader(); w.writerows(rows)
     print('inferred', done, 'skipped', dict(skipped))
     for x in examples[:8]: print(' ', x)
 

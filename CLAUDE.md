@@ -30,4 +30,5 @@
 - Scrape politely: 1-2 req/s per domain, respect robots.txt.
 
 ## Output
-`data/coaches.csv`: school, sport, role, name, title, email, email_source, url, status, tier, dept_contact (no phone numbers)
+`data/coaches.csv` (deliverable): school, sport, role, name, title, email, email_source, tier, dept_contact. No phone, url or status.
+Scripts work on `data/coaches_full.csv` (keeps url + status); run `python3 scraper/export.py` after any merge to refresh the deliverable.

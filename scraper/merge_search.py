@@ -12,7 +12,7 @@ for f in sorted(glob.glob('data/search/batch_*.csv')):
         if email and not re.fullmatch(r'[\w.+-]+@[\w-]+(\.[\w-]+)+', email): email = ''
         found[(r['school'].strip(), sp)] = r | {'email': email}
 F = ['school','sport','role','name','title','email','email_source','url','status']
-rows = list(csv.DictReader(open('data/coaches.csv'))); F = [f for f in rows[0] if f != 'phone']
+rows = list(csv.DictReader(open('data/coaches_full.csv'))); F = [f for f in rows[0] if f != 'phone']
 out, used = [], 0
 for r in rows:
     k = (r['school'], r['sport'])
@@ -24,8 +24,8 @@ for r in rows:
                  url=(s.get('source_url') or r['url']).strip(),
                  status=f'search_{conf}_verify' if s['email'] else f'search_name_only_{conf}')
     out.append(r)
-csv.DictWriter(open('data/coaches.csv', 'w'), fieldnames=F, extrasaction='ignore').writeheader()
-w = csv.DictWriter(open('data/coaches.csv', 'a'), fieldnames=F, extrasaction='ignore'); w.writerows(out)
+csv.DictWriter(open('data/coaches_full.csv', 'w'), fieldnames=F, extrasaction='ignore').writeheader()
+w = csv.DictWriter(open('data/coaches_full.csv', 'a'), fieldnames=F, extrasaction='ignore'); w.writerows(out)
 heads = [r for r in out if r['role'] == 'head']
 print('search rows read', len(found), 'merged', used)
 print('head-coach status:', collections.Counter(r['status'] for r in heads).most_common())

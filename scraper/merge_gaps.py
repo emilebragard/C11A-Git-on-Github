@@ -26,7 +26,7 @@ def learn(examples):
     if not c: return None
     top = c.most_common(2)
     return None if len(top) > 1 and top[0][1] == top[1][1] else top[0][0]
-rows = list(csv.DictReader(open('data/coaches.csv')))
+rows = list(csv.DictReader(open('data/coaches_full.csv')))
 F = list(rows[0]) + ([] if 'dept_contact' in rows[0] else ['dept_contact'])
 stats = collections.Counter()
 for r in rows:
@@ -51,7 +51,7 @@ for r in rows:
         if r['status'] in ('not_found', 'site_blocked', 'no_url'): r['status'] = f'search_name_only_{conf}'
         stats['name_only'] += 1
     else: stats['nothing_new'] += 1
-w = csv.DictWriter(open('data/coaches.csv', 'w'), fieldnames=F); w.writeheader(); w.writerows(rows)
+w = csv.DictWriter(open('data/coaches_full.csv', 'w'), fieldnames=F); w.writeheader(); w.writerows(rows)
 heads = [r for r in rows if r['role'] == 'head']
 print(dict(stats))
 print('head-coach status:', collections.Counter(r['status'] for r in heads).most_common())

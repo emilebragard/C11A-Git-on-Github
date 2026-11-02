@@ -62,7 +62,7 @@ for s in schools.values():
             why = 'site_blocked' if s['platform'] == 'blocked_403' else 'no_url' if s['platform'] == 'no_url' else 'not_found'
             out.append({'school': s['school'], 'sport': sp, 'role': 'head', 'name': '', 'title': '', 'email': '', 'email_source': '', 'phone': '', 'url': s['athletics_url'], 'status': why})
 out.sort(key=lambda r: (r['school'], r['sport'], r['role'] != 'head'))
-w = csv.DictWriter(open('data/coaches.csv', 'w'), fieldnames=F, extrasaction='ignore'); w.writeheader(); w.writerows(out)
+w = csv.DictWriter(open('data/coaches_full.csv', 'w'), fieldnames=F, extrasaction='ignore'); w.writeheader(); w.writerows(out)
 heads = [r for r in out if r['role'] == 'head']
 print('rows', len(out), 'inferred', inferred, 'domains checked', len(mx), 'bad', [d for d, v in mx.items() if not v])
 print('head-coach rows by status:', collections.Counter(r['status'] for r in heads).most_common())
