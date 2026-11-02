@@ -13,8 +13,8 @@ Bevill State Community College,mbkb,head,Daniel Foy,Head Basketball Coach,daniel
 Big Bend Community College,mbkb,head,Dallin Spencer,Head Men's Basketball Coach,dallins@bigbend.edu,web_search,509-793-2225,https://bigbend.prestosports.com/Directory/index,search_high_verify,
 Big Bend Community College,wbkb,head,Preston Wilks,Head Women's Basketball Coach,prestonw@bigbend.edu,web_search,,https://bigbend.prestosports.com/Directory/index,search_high_verify,
 Black Hawk College,mbkb,head,Kannon Burrage,Head Men's Basketball Coach,burragek@bhc.edu,scraped,309-796-5604,https://www.bhc.edu/athletics/mens-basketball/,ok,
-Black Hawk College,wbkb,head,Logan Frye,,,,,https://www.bhc.edu/athletics/,search_name_only_low,
-Blackhawk Technical College,mbkb,head,Donte Burt,Head Coach,dburt@blackhawk.edu,inferred,,https://athletics.blackhawk.edu/Womens-Basketball/coach-spotlight-donte-burt-mens-basketball,inferred_verify,athletics@blackhawk.edu
+Black Hawk College,wbkb,head,Logan Frye,,fryel@bhc.edu,inferred,,https://www.bhc.edu/athletics/,inferred_confirmed_format,
+Blackhawk Technical College,mbkb,head,Donte Burt,Head Coach,dburt@blackhawk.edu,inferred,,https://athletics.blackhawk.edu/Womens-Basketball/coach-spotlight-donte-burt-mens-basketball,inferred_confirmed_format,athletics@blackhawk.edu
 Blackhawk Technical College,wbkb,head,Aaron Dobbs,Head Coach,adobbs1@blackhawk.edu,web_search,(608) 289-7202,https://athletics.blackhawk.edu/News/aaron-dobbs-leads-blackhawks-womens-basketball-team,search_high_verify,
 Brunswick Community College,wbkb,head,Onya Gardner,Head Women's Basketball Coach,gardnero@brunswickcc.edu,inferred,,https://www.wect.com/2026/06/26/onya-gardner-named-head-coach-bcc-dolphins-womens-basketball/,inferred_verify,
 Bryant & Stratton College - Ohio,mbkb,head,Dwayne Morrow,Head Men's Basketball Coach / Athletic Director,dmorrow@bryantstratton.edu,web_search,216-548-5081,https://bryantstrattonohio.prestosports.com/information/directory/index,search_medium_verify,
@@ -43,14 +43,14 @@ Central Community College Columbus,mbkb,head,Tyler Francis,Head Coach,tylerfranc
 Central Community College Columbus,wbkb,head,Kasi Stoltz,Head Coach,kasandrastoltz@cccneb.edu,web_search,,https://cccneb.prestosports.com/information/directory/Kasi_Stoltz,search_high_verify,
 Chandler-Gilbert Community College,mbkb,head,Stephen Silsby,Head Men's Basketball Coach,stephen.silsby@cgc.edu,web_search,480-726-4230,https://cgccathletics.prestosports.com/information/directory/index,search_high_verify,
 Chandler-Gilbert Community College,wbkb,head,Mario Trutanic,Head Women's Basketball Coach,mario.trutanic@cgc.edu,web_search,480-732-7357,https://cgccathletics.prestosports.com/information/directory/index,search_high_verify,
-Chattahoochee Valley Community College,mbkb,head,Marcus Thomas,Head Men's Basketball Coach,marcus.thomas@cv.edu,inferred,,https://www.cv.edu/chattahoochee-valley-community-college-welcomes-new-mens-basketball-head-coach/,inferred_verify,(334) 291-4900
+Chattahoochee Valley Community College,mbkb,head,Marcus Thomas,Head Men's Basketball Coach,marcus.thomas@cv.edu,inferred,,https://www.cv.edu/chattahoochee-valley-community-college-welcomes-new-mens-basketball-head-coach/,inferred_confirmed_format,(334) 291-4900
 Chattahoochee Valley Community College,wbkb,head,Joe Richardson,Head Women's Basketball Coach,jonathan.richardson@cv.edu,web_search,334.291.3460,https://chattahoocheevalleycc.prestosports.com/information/directory/index,search_low_verify,
 Chesapeake College,mbkb,head,Andrew Sachs,Head Men's Basketball Coach,,,,https://letsgoskipjacks.com/sports/mbkb/coaches/Andrew_Sachs,search_name_only_medium,
 Chesapeake College,wbkb,head,Gwen Barnes,,,,,https://www.letsgoskipjacks.com/landing/index,search_name_only_low,
 Clackamas Community College,mbkb,head,Brian Stamme,Head Men's Basketball Coach,,,,https://hoopdirt.com/?p=1063511,search_name_only_medium,
 Clackamas Community College,wbkb,head,Jim Martineau,Head Women's Basketball Coach,,,,https://sportsrecruits.com/athletic-scholarships/womens-basketball/oregon/clackamas_community_college,search_name_only_low,
-Clark State College,mbkb,head,Mark Parker,Head Men's Basketball Coach,parkerm@clarkstate.edu,inferred,,https://clarkstateeagles.com/sports/mbkb/2025-26/releases/20260601gm26ux,inferred_verify,
-Clark State College,wbkb,head,Silas Williams,Head Women's Basketball Coach,williamss@clarkstate.edu,web_search,,https://clarkstate.prestosports.com/information/directory/index,search_low_verify,
+Clark State College,mbkb,head,Mark Parker,Head Men's Basketball Coach,parkerm@clarkstate.edu,inferred,,https://clarkstateeagles.com/sports/mbkb/2025-26/releases/20260601gm26ux,inferred_confirmed_format,
+Clark State College,wbkb,head,Silas Williams,Head Women's Basketball Coach,williamsds@clarkstate.edu,college_site,,https://clarkstate.prestosports.com/information/directory/index,college_site_ok,
 Cleveland Community College,mbkb,head,Jabarr Adams,,,,,https://cccyetis.com/,search_name_only_medium,(704) 669-6000
 Cleveland Community College,wbkb,head,,,,,,https://cccyetis.com/,not_found,
 Coastal Alabama Community College - North,mbkb,head,Chuck Taylor,Head Men's Basketball Coach,chuck.taylor@coastalalabama.edu,scraped,251-575-8254,https://coastalcoyotesnorth.com/sports/mens-basketball/coaches,ok,
@@ -97,11 +97,11 @@ Edison State Community College,mbkb,head,Kyle Vanover,Head Men's Basketball Coac
 Edison State Community College,wbkb,head,Tim McMahon,Head Women's Basketball Coach,tmcmahon@edisonohio.edu,web_search,,https://occac.prestosports.com/members/edison/info,search_medium_verify,
 Elgin Community College,mbkb,head,Kent Payne,Head Men's Basketball Coach,kpayne@elgin.edu,web_search,,https://elgin.prestosports.com/information/directory/index,search_medium_verify,
 Elgin Community College,wbkb,head,Eumeka Aguado,Head Women's Basketball Coach,eaguado@elgin.edu,web_search,,https://elgin.prestosports.com/information/directory/index,search_high_verify,
-Ellsworth Community College,mbkb,head,Bryan Bender,Head Men's Basketball Coach,bryan.bender@iavalley.edu,inferred,,https://www.getrecruited.college/schools/ellsworth-community-college-ia/mens-basketball,inferred_verify,
+Ellsworth Community College,mbkb,head,Bryan Bender,Head Men's Basketball Coach,bryan.bender@iavalley.edu,college_site,,https://www.getrecruited.college/schools/ellsworth-community-college-ia/mens-basketball,college_site_ok,
 Ellsworth Community College,wbkb,head,Justin Rees,Head Women's Basketball Coach,justin.rees@iavalley.edu,web_search,641-648-8517,https://ellsworth.prestosports.com/sports/wbkb/coaches/Justin_Rees,search_high_verify,
 Enterprise State Community College,mbkb,head,Jeremaine Williams,Head Men and Women's Basketball Coach,jlwilliams@escc.edu,web_search,,https://escc.edu/directory/williams-jermain,search_high_verify,334-347-2623
 Enterprise State Community College,wbkb,head,George Scott,,gscott@escc.edu,inferred,,https://www.escc.edu/athletics,inferred_verify,334-347-2623
-Erie Community College,mbkb,head,Alex Nwora,Head Men's Basketball Coach,nworaa@ecc.edu,inferred,,https://athletics.ecc.edu/sports/mbkb/coaches/index,inferred_verify,716-851-1214
+Erie Community College,mbkb,head,Alex Nwora,Head Men's Basketball Coach,nwora@ecc.edu,college_site,,https://athletics.ecc.edu/sports/mbkb/coaches/index,college_site_ok,716-851-1214
 Essex County College,mbkb,head,AJ Kemp,Head Men's Basketball Coach,andkemp@essex.edu,web_search,973-877-3558,https://essexwolverines.com/information/Directory/homepage,search_medium_verify,
 Essex County College,wbkb,head,Jahreal Cadogan,Head Coach,jcadoga1@essex.edu,web_search,,https://essexwolverines.com/information/Directory/homepage,search_medium_verify,
 Fayetteville Technical Community College,mbkb,head,Brian Hurd,Head Men's Basketball Coach,hurdb@faytechcc.edu,web_search,910-678-1038,https://www.faytechcc.edu/athletics/staff-directory/,search_high_verify,
@@ -124,7 +124,7 @@ Glen Oaks Community College,wbkb,head,Emilee Hendron,Head Women's Basketball Coa
 Glendale Community College,mbkb,head,Vigen Jilizian,Head Coach,vjilizian@glendale.edu,web_search,818-240-1000 ext. 5372,https://glendalecc.prestosports.com/sports/mbkb/coaches/Vigen_Jilizian,search_medium_verify,
 Glendale Community College,wbkb,head,Ernest Shand,Women's Basketball Head Coach,ernest.shand@gccaz.edu,web_search,623-845-3047,https://gauchoathletics.prestosports.com/sports/wbkb/coaches/ernestshandbio,search_medium_verify,
 Gogebic Community College,mbkb,head,Denver Sharrow,Head Coach,denvers@gogebic.edu,web_search,,https://gccsamsons.prestosports.com/sports/mbkb/coaches/Denver_Sharrow,search_low_verify,
-Gogebic Community College,wbkb,head,Ward Helakoski,Head Coach,,,,https://www.mininggazette.com/sports/local-sports/2026/05/gcc-names-helakoski-as-head-womens-basketball-coach/,search_name_only_medium,athletics@gogebic.edu
+Gogebic Community College,wbkb,head,Ward Helakoski,Head Coach,helakoskiw@gogebic.edu,inferred,,https://www.mininggazette.com/sports/local-sports/2026/05/gcc-names-helakoski-as-head-womens-basketball-coach/,inferred_confirmed_format,athletics@gogebic.edu
 Grand Rapids Community College,mbkb,head,Joe Fox,Head Coach,josephfox3@grcc.edu,scraped,616-234-3420,https://grccraiders.com/sports/mens-basketball/coaches,ok,
 Grand Rapids Community College,mbkb,assistant,DeQuaveon Stuckey,Assistant Coach,dequaveonstuckey@grcc.edu,scraped,,https://grccraiders.com/sports/mens-basketball/coaches,ok,
 Grand Rapids Community College,mbkb,assistant,Deleon Brown,Assistant Coach,deleonbrown@grcc.edu,inferred,,https://grccraiders.com/sports/mens-basketball/coaches,inferred_unverified,
@@ -133,7 +133,7 @@ Grand Rapids Community College,mbkb,assistant,Zachary Carlson,Assistant Coach,za
 Grand Rapids Community College,wbkb,head,David Glazier,Head Coach,dglazier@grcc.edu,scraped,616-234-3993,https://grccraiders.com/sports/womens-basketball/coaches,ok,
 Grand Rapids Community College,wbkb,assistant,Mike Janikowski,Assistant Coach,michaeljanikowski@grcc.edu,scraped,,https://grccraiders.com/sports/womens-basketball/coaches,ok,
 Grand Rapids Community College,wbkb,assistant,Danny Robinson,Assistant Coach,dannyrobinson@grcc.edu,inferred,,https://grccraiders.com/sports/womens-basketball/coaches,inferred_unverified,
-Guilford Technical Community College,mbkb,head,Kirk Chandler,Head Men's Basketball Coach,kchandler@gtcc.edu,inferred,,https://guilfordtech.prestosports.com/sports/mbkb/coaches/index,inferred_verify,
+Guilford Technical Community College,mbkb,head,Kirk Chandler,Head Men's Basketball Coach,kdchandler@gtcc.edu,college_site,,https://guilfordtech.prestosports.com/sports/mbkb/coaches/index,college_site_ok,
 Guilford Technical Community College,wbkb,head,Erica Handy,Coach,ehandy@gtcc.edu,web_search,336-334-4822 x50025,https://guilfordtech.prestosports.com/information/directory/index,search_medium_verify,
 Hagerstown Community College,wbkb,head,Cindy Wilhelm,Head Women's Basketball Coach,cdwilhelm@hagerstowncc.edu,web_search,,https://athletics.hagerstowncc.edu/general/2023-24/releases/20240401ii3jf7,search_medium_verify,
 Harcum College,mbkb,head,CJ Scott,,,,,https://www.harcum.edu/s/1044/bp20/interior.aspx?sid=1044&gid=1&pgid=1135,search_name_only_medium,
@@ -150,8 +150,8 @@ Harper College,wbkb,assistant,Reina Grunfeld,Assistant Coach,gr32381@harpercolle
 Harper College,wbkb,assistant,John Majerus,Assistant Coach,jmajerus@harpercollege.edu,scraped,847-925-6935,https://www.harperhawks.net/sports/womens-basketball/coaches,ok,
 Harrisburg Area Community College,mbkb,head,Shawn Lewis,Head Men's Basketball Coach,stlewis@hacc.edu,web_search,,https://harrisburg.prestosports.com/information/directory/index,search_high_verify,
 Harrisburg Area Community College,wbkb,head,Stasia King,Head Women's Basketball Coach,syking@hacc.edu,web_search,,https://harrisburg.prestosports.com/information/directory/index,search_medium_verify,
-Henry Ford College,mbkb,head,Chris Shepard,Head Men's Basketball Coach,,,,https://www.hfcc.edu/athletics/mens-basketball,no_email,(313) 845-9600
-Henry Ford College,wbkb,head,Rashaun Hankins,,,,,https://www.hfcc.edu/athletics,search_name_only_low,(313) 845-9600
+Henry Ford College,mbkb,head,Chris Shepard,Head Men's Basketball Coach,cshepard@hfcc.edu,inferred,,https://www.hfcc.edu/athletics/mens-basketball,inferred_confirmed_format,(313) 845-9600
+Henry Ford College,wbkb,head,Rashaun Hankins,,rhankins@hfcc.edu,inferred,,https://www.hfcc.edu/athletics,inferred_confirmed_format,(313) 845-9600
 Highland Community College-Kansas,mbkb,head,Jon Oler,Head Coach,oler.jon@highlandcc.edu,scraped,785-442-6141,https://scottieathletics.com/sports/mens-basketball/coaches,ok,
 Highland Community College-Kansas,mbkb,assistant,Connor Sevier,Assistant Coach,csevier@highlandcc.edu,scraped,785-442-6164,https://scottieathletics.com/sports/mens-basketball/coaches,ok,
 Highland Community College-Kansas,wbkb,head,Tana Coleman,Head Coach,tcoleman@highlandcc.edu,scraped,785-442-6048,https://scottieathletics.com/sports/womens-basketball/coaches,ok,
@@ -226,7 +226,7 @@ Madison College,wbkb,head,Angel Whetstone,Head Women's Basketball Coach,awhetsto
 Madison College,wbkb,assistant,Mike Mayfield,Assistant Women's Basketball Coach,mmayfield1@madisoncollege.edu,scraped,(608) 245-2115,https://madisoncollegeathletics.com/sports/womens-basketball/coaches,ok,
 Madison College,wbkb,assistant,Lilly Dorman,Assistant Women's Basketball Coach,ldorman1@madisoncollege.edu,scraped,(608) 245-2100,https://madisoncollegeathletics.com/sports/womens-basketball/coaches,ok,
 Madison College,wbkb,assistant,Demetria Prewitt,Assistant Women's Basketball Coach,dprewitt1@madisoncollege.edu,scraped,(608) 239-8751,https://madisoncollegeathletics.com/sports/womens-basketball/coaches,ok,
-Marian University Plymouth,mbkb,head,Ted Hayden,Interim Head Coach,,,,https://ancillachargers.com/general/2025-26/releases/20260604hjsd29,search_name_only_medium,
+Marian University Plymouth,mbkb,head,Ted Hayden,Interim Head Coach,thayden@marian.edu,inferred,,https://ancillachargers.com/general/2025-26/releases/20260604hjsd29,inferred_confirmed_format,
 Marian University Plymouth,wbkb,head,Ryan Gould,Head Coach,rgould@marian.edu,web_search,,https://ancilla.prestosports.com/information/directory/Ryan_Gould,search_medium_verify,
 Marion Military Institute,mbkb,head,Timothy Rodgers,Head Coach,trodgers@marionmilitary.edu,web_search,334-683-2357,https://marionmilitary.prestosports.com/information/directory/index,search_high_verify,
 Marshalltown Community College,wbkb,head,Dylan Longley,Head Women's Basketball/Athletics Coordinator,dylan.longley@iavalley.edu,web_search,641-844-5668,https://mccathletics.com/sports/wbkb/coaches/Dylan_Longley,search_high_verify,
@@ -269,8 +269,8 @@ National Park College,mbkb,head,Dion Hargrove,Head Men's Basketball Coach,dion.h
 National Park College,wbkb,head,Eddie Broughton,Head Women's Basketball Coach,eddie.broughton@np.edu,web_search,,https://webdev.np.edu/student-life-services/athletics/womens-basketball,search_low_verify,
 Neosho County,mbkb,head,Taylor Shaffer,,tshaffer@neosho.edu,inferred,,,inferred_verify,620-431-2820 ext. 208
 Neosho County,wbkb,head,JJ Davis,Head Women's Basketball Coach,jdavis@neosho.edu,web_search,,https://goneosho.com/sports/womens-basketball/coaches,search_high_verify,620-431-2820 ext. 208
-North Arkansas College,mbkb,head,Jordan Hunter,Head Women's Basketball Coach,,,(870) 391-3182,https://www.northark.edu/faculty-and-staff/,no_email,
-North Arkansas College,wbkb,head,Brad Phillips,Head Women's Basketball Coach,,,(870) 391-3182,https://www.northark.edu/faculty-and-staff/,no_email,
+North Arkansas College,mbkb,head,Jordan Hunter,Head Women's Basketball Coach,jhunter@northark.edu,college_site,(870) 391-3182,https://www.northark.edu/faculty-and-staff/,college_site_ok,
+North Arkansas College,wbkb,head,Brad Phillips,Head Women's Basketball Coach,bradrick.phillips@northark.edu,college_site,(870) 391-3182,https://www.northark.edu/faculty-and-staff/,college_site_ok,
 North Central Missouri College,mbkb,head,Jeremy Esry,Head Coach,jesry@mail.ncmissouri.edu,web_search,,https://ncmcpirates.com/sports/mbkb/coaches/Jeremy_Esry,search_high_verify,660-359-3948
 North Central Missouri College,wbkb,head,,,,,,https://ncmcpirates.com/landing/index,site_blocked,660-359-3948
 North Iowa Area Community College,mbkb,head,Jeremy Winters,Head Men's Basketball Coach,jeremy.winters@niacc.edu,web_search,,https://niacctrojans.com/sports/mbkb/coaches/winters-jeremy,search_high_verify,
@@ -310,12 +310,12 @@ Prairie State College,wbkb,head,Mari Neberieza,Interim Head Women's Basketball C
 Prairie State College,wbkb,assistant,Isabella Metzdorff,Assistant Coach,imetzdorff@prairiestate.edu,inferred,,https://prairiestateathletics.com/sports/womens-basketball/coaches,inferred_unverified,
 Prince George's Community College,mbkb,head,Terrell Harris,Head Coach,,,301-546-0068,https://pgccowls.com/sports/mbkb/2025-26/releases/20260520j5nccp,search_name_only_medium,MensBasketball@pgcc.edu (shared program inbox)
 Prince George's Community College,wbkb,head,Devin May,,,,,https://www.pgccowls.com/landing/index,search_name_only_medium,WomensBasketball@pgcc.edu (shared program inbox)
-Raritan Valley Community College,mbkb,head,Jyron Brooks,Head Men's Basketball Coach,jyron.brooks@raritanval.edu,inferred,,https://hoopdirt.com/?p=44021,inferred_verify,rvccathletics@raritanval.edu; 908-526-1200
-Raritan Valley Community College,wbkb,head,Phil Herro,,,,,https://www.rvccathletics.com/landing/index,search_name_only_low,rvccathletics@raritanval.edu; 908-526-1200
+Raritan Valley Community College,mbkb,head,Jyron Brooks,Head Men's Basketball Coach,jyron.brooks@raritanval.edu,inferred,,https://hoopdirt.com/?p=44021,inferred_confirmed_format,rvccathletics@raritanval.edu; 908-526-1200
+Raritan Valley Community College,wbkb,head,Phil Herro,,phil.herro@raritanval.edu,inferred,,https://www.rvccathletics.com/landing/index,inferred_confirmed_format,rvccathletics@raritanval.edu; 908-526-1200
 Reid State Community College,mbkb,head,Jason Hopkins,Head Men's Basketball Coach,jhopkins@reidstate.edu,web_search,,https://reidstate.prestosports.com/information/directory/bios/Jason_Hopkins,search_high_verify,
 Reid State Community College,wbkb,head,Willie White,Head Women's Basketball Coach,wwhite@reidstate.edu,web_search,,https://reidstate.prestosports.com/information/directory/index,search_high_verify,
 Rend Lake College,mbkb,head,Tim Wills,Head Coach,wills@rlc.edu,web_search,,https://rlc.prestosports.com/information/directory/index,search_medium_verify,
-Richard Bland College,wbkb,head,Ty Curry,,tcurry@rbc.edu,inferred,,https://gorbcathletics.com/,inferred_verify,
+Richard Bland College,wbkb,head,Ty Curry,,tcurry@rbc.edu,inferred,,https://gorbcathletics.com/,inferred_confirmed_format,
 Rochester Community and Technical College,wbkb,head,Jason Bonde,Head Women's Basketball Coach,,,,https://www.rctc.edu/rctc-announces-sam-barnes-as-head-womens-basketball-coach/,search_name_only_medium,
 Rock Valley College,mbkb,head,Nick Ramos,Head Men's Basketball Coach,n.ramos@rockvalleycollege.edu,scraped,815-921-3809,https://rvcsports.com/sports/mens-basketball/coaches,ok,
 Rock Valley College,mbkb,assistant,Hunter Rickels,Assistant Men's Basketball Coach,h.rickels@rockvalleycollege.edu,scraped,,https://rvcsports.com/sports/mens-basketball/coaches,ok,
@@ -343,7 +343,7 @@ South Suburban College,wbkb,head,Kevin Green,,,,,https://www.ssc.edu/athletics,s
 Southeast Arkansas College,mbkb,head,James Voight,Head Men's Basketball Coach,,,,https://www.pbcommercial.com/seark-announces-interim-ad-new-basketball-coaches/,search_name_only_low,
 Southeast Arkansas College,wbkb,head,Chad Killinger,Head Women's Basketball Coach,,,,https://www.pbcommercial.com/seark-announces-interim-ad-new-basketball-coaches/,search_name_only_low,
 Southeastern Community College - Iowa,wbkb,head,Chevis Thompson,Head Women's Basketball Coach,cthompson1@scciowa.edu,web_search,(319) 208-1949,https://sccblackhawks.prestosports.com/sports/wbkb/coaches/Chevis_Thompson,search_low_verify,
-Southeastern Illinois College,mbkb,head,Sam Swinford,Head Coach,sam.swinford@sic.edu,inferred,,https://sic.edu/news/category/basketball,inferred_verify,618-252-5400 ext 2425 (AD Jeremy Irlbeck)
+Southeastern Illinois College,mbkb,head,Sam Swinford,Head Coach,sam.swinford@sic.edu,college_site,,https://sic.edu/news/category/basketball,college_site_ok,618-252-5400 ext 2425 (AD Jeremy Irlbeck)
 Southern Arkansas University Tech,mbkb,head,Bryant Pagan II,Interim Head Coach,bpagan@sautech.edu,web_search,,https://www.sautech.edu/individual-staff/bpagan,search_low_verify,
 Southern Arkansas University Tech,wbkb,head,Aramie Brooks,,abrooks@sautech.edu,inferred,,https://sautrockets.com/,inferred_verify,
 Southwestern Community College (IA),mbkb,head,Darryl Fletcher,Head Men's Basketball Coach,dfletcher@swcciowa.edu,web_search,,https://swcciowa.prestosports.com/sports/mbkb/coaches/Darryl_Fletcher,search_high_verify,
@@ -364,8 +364,8 @@ Umpqua Community College,wbkb,head,Dave Stricklin,Head Coach,dave.stricklin@umpq
 "Union College of Union County, New Jersey",wbkb,head,Jaleel Taylor,Head Women's Basketball Coach,jaleel.taylor@ucc.edu,web_search,908-709-7074,https://unionowls.com/sports/wbkb/coaches/Jaleel_Taylor,search_high_verify,
 United Tribes Technical College,mbkb,head,Rob McClain,Head Men's Basketball Coach,rmcclain@uttc.edu,inferred,,https://basketball.realgm.com/njcaa_dii/team/United-Tribes-Technical-College/1831,inferred_verify,
 United Tribes Technical College,wbkb,head,Kelsey Peltier,Head Women's Basketball Coach,kpeltier@uttc.edu,web_search,701-221-1355,https://uttc.prestosports.com/sports/wbkb/coaches/Kelsey_Peltier,search_high_verify,
-University of Arkansas Cossatot,mbkb,head,Stanley Asumnu,Head Basketball Coach,sasumnu@cccua.edu,inferred,,https://basketball.realgm.com/njcaa_dii/team/Arkansas--Cossatot/2361,inferred_verify,870-584-1105
-University of Arkansas Cossatot,wbkb,head,Stanley Asumnu,,sasumnu@cccua.edu,inferred,,https://uacossatotcolts.com/landing/index,inferred_verify,870-584-1105
+University of Arkansas Cossatot,mbkb,head,Stanley Asumnu,Head Basketball Coach,sasumnu@cccua.edu,college_site,,https://basketball.realgm.com/njcaa_dii/team/Arkansas--Cossatot/2361,college_site_ok,870-584-1105
+University of Arkansas Cossatot,wbkb,head,Stanley Asumnu,,sasumnu@cccua.edu,college_site,,https://uacossatotcolts.com/landing/index,college_site_ok,870-584-1105
 WVU Potomac State College,mbkb,head,Brady Folk,Head Men's Basketball Coach,brady.folk@mail.wvu.edu,inferred,,https://basketball.realgm.com/njcaa_dii/team/Potomac-State-College/1380,inferred_verify,pscsports@mail.wvu.edu; 304-788-6879
 WVU Potomac State College,wbkb,head,Larry Kruk,Head Women's Basketball Coach,larry.kruk@mail.wvu.edu,inferred,,https://potomacst.prestosports.com/sports/wbkb/2019-20/larry-kruk-head-womens-basketball-coach,inferred_verify,pscsports@mail.wvu.edu; 304-788-6879
 Wake Technical Community College,wbkb,head,Daniel Colvin,Head Women's Basketball Coach,dlcolvin@waketech.edu,web_search,,https://waketechsports.com/information/directory/index,search_high_verify,
