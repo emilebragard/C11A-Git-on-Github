@@ -9,3 +9,4 @@
 - 2026-11-02: Cloud servers are blocked by PrestoSports and many Sidearm sites (403, including robots.txt). On home or office internet, expect far fewer blocks. Chrome handles the rest.
 - 2026-11-02: The NCAA Directory (web3.ncaa.org) lists every head coach's name per sport, so NCAA runs only need emails.
 - 2026-11-02: Region and conference sites don't list coach emails, but NJCAA region directors will share lists by email.
+- 2026-11-02: Hunter Email-Verifier on 16 search-found (tier D) basketball emails: 14 valid, 2 accept_all, 0 invalid, for 8 credits. Search-found emails are mostly real; Hunter turns them into tier A cheaply. Hunter's sources also show whether a page still lists the coach (`still_on_page`), which is a free hint about whether they're current.

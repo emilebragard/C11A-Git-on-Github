@@ -17,7 +17,7 @@ PERSONAL = ('gmail.com', 'yahoo.com', 'hotmail.com', 'outlook.com', 'icloud.com'
 EMAIL_RE = re.compile(r'[\w.+-]+@[\w-]+(?:\.[\w-]+)+')
 
 COACH_FIELDS = ['run_id', 'association', 'division', 'sport', 'school', 'name', 'title', 'email',
-                'email_source', 'tier', 'status', 'source_url', 'dept_contact', 'last_checked']
+                'email_source', 'tier', 'email_check', 'status', 'source_url', 'dept_contact', 'last_checked']
 SCHOOL_FIELDS = ['association', 'school', 'school_id', 'athletics_url', 'final_url', 'platform',
                  'email_domain', 'checked']
 COVERAGE_FIELDS = ['run_id', 'association', 'division', 'sport', 'teams', 'with_email', 'tier_A',
@@ -162,7 +162,7 @@ def has_mx(domain):
     _mx[domain] = ok; return ok
 
 # ---------- tiers ----------
-TIER_A = {'scraped', 'chrome_ok', 'college_site', 'confirmed', 'search_high'}
+TIER_A = {'scraped', 'chrome_ok', 'college_site', 'confirmed', 'search_high', 'email_verified'}
 TIER_D = {'search_medium', 'search_low'}
 
 def tier(row):

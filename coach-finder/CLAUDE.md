@@ -13,3 +13,4 @@ This folder is a reusable system for finding college head coaches' names and ema
 - **Head coaches only** unless the person asks for assistants.
 - **Keep the database tidy:** don't add columns or files outside the structure in START_HERE.md without saying so. Update `knowledge/lessons.md` at the end of each run.
 - No phone numbers in outputs.
+- **Hunter (if connected):** check credits first, ask before using more than 20, and never verify pattern-built emails (use Email-Finder for those). See PLAYBOOK 5b.

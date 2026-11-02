@@ -32,9 +32,10 @@ Run the scripts from the folder root. Each prints a short summary; never print w
 | 7. Search pass | `python scripts/worklist.py <run_id> search 3` → section 5 | 3 `coach-searcher` helpers | yes |
 | 8. Formats again | `python scripts/emails.py <run_id>` (uses staff emails found in 6-7) | script | yes |
 | 9. Verify pass | `python scripts/worklist.py <run_id> verify 2` → section 5 | 2 `coach-verifier` helpers | yes |
-| 10. Report | `python scripts/report.py <run_id> --doc-table` → update the doc | Claude | yes |
+| 10. Hunter pass (if connected) | section 5b | Claude + Hunter connector | yes |
+| 11. Report | `python scripts/report.py <run_id> --doc-table` → update the doc | Claude | yes |
 
-After steps 3, 5, 6, 7, and 9: run `python scripts/merge.py <run_id>` (only after 6, 7, 9), then `python scripts/report.py <run_id> --doc-table`, then **update the live doc**. Data reaches `data/coaches.csv` (the backup) before it reaches the doc.
+After steps 3, 5, 6, 7, 9, and 10: run `python scripts/merge.py <run_id>` (only after 6, 7, 9, 10), then `python scripts/report.py <run_id> --doc-table`, then **update the live doc**. Data reaches `data/coaches.csv` (the backup) before it reaches the doc.
 
 **Skip rules:**
 - NCAA: step 1 already gives every head coach's name, so most work is finding emails.
@@ -69,6 +70,16 @@ Defined in `.claude/agents/`. Both run on Haiku, which is cheap.
 - **`coach-searcher`:** give it one worklist file (`search_N.csv`) and its output path (`results/search_N.csv`). Run **at most 3 at once**. More hits the web-search rate limit and they return half empty.
 - **`coach-verifier`:** give it `verify_N.csv` and `results/verify_N.csv`. Run at most 2 at once.
 - After they finish, run `merge.py`, `emails.py`, `report.py`, and update the doc.
+
+## 5b. Hunter pass (optional; only if the Hunter connector is connected)
+
+Hunter checks whether a mailbox exists (Email-Verifier) and finds a person's email from their name and domain (Email-Finder).
+- **Credits:** Verifier = 0.5 credit and Finder = 1 credit (only charged when found). Run `Get-Usage` first; the free plan has 50 credits/month. Say how many credits you'll use, and ask first if it's more than 20.
+- **Verify only emails a page or search showed** (tier D first, then search_high). **Never send pattern-built (inferred, tier B/C) emails to the Verifier;** Hunter's rules forbid verifying guessed addresses. For those rows, and for name-only rows, use **Email-Finder** with the coach's full name + the school's email domain instead.
+- Skip shared/role inboxes (e.g. `mens_basketball@`, `cardinalsmbasketball@`); Hunter can't judge them.
+- Write Verifier results to `data/runs/<run_id>/results/hunter_<n>.csv` with columns `school,email,hunter_status,score`. Valid → tier A and recorded in `email_check`; invalid → email removed; accept_all → recorded, tier unchanged.
+- Write Email-Finder hits in the normal result format to `results/search_hunter_<n>.csv`, with confidence `high` if score ≥ 90, otherwise `medium`, and note `Hunter Email-Finder score N`. If Finder returns an email different from an inferred one, Finder wins.
+- Hunter saves verified addresses as leads in the Hunter account (All people). That's expected; mention it once.
 
 ## 6. Result file format (Chrome, search, and verify all use it)
 

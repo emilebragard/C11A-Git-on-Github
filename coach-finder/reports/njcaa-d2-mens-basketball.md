@@ -1,6 +1,6 @@
 # NJCAA D2 Men's Basketball Head Coaches
 
-**134 of 152 teams have a head coach email (88%).** High: 96 · Format confirmed: 6 · Guessed: 17 · Unconfirmed: 15 · Name only: 14 · Not found: 4. Last updated 2026-11-02.
+**136 of 152 teams have a head coach email (89%).** High: 108 · Format confirmed: 7 · Guessed: 18 · Unconfirmed: 3 · Name only: 12 · Not found: 4. Last updated 2026-11-02.
 
 | School | Head coach | Email | Confidence |
 |---|---|---|---|
@@ -13,9 +13,9 @@
 | Big Bend Community College | Dallin Spencer | dallins@bigbend.edu | High |
 | Black Hawk College | Kannon Burrage | burragek@bhc.edu | High |
 | Blackhawk Technical College | Donte Burt | dburt@blackhawk.edu | Good (format confirmed) |
-| Bryant & Stratton College - Ohio | Dwayne Morrow | dmorrow@bryantstratton.edu | Unconfirmed (verify) |
+| Bryant & Stratton College - Ohio | Dwayne Morrow | dmorrow@bryantstratton.edu | High |
 | Bryant & Stratton College - Virginia | Cliff Coleman | cmcoleman@bryantstratton.edu | High |
-| Bryant & Stratton College - Wisconsin | Kyle Hoffman | krhoffman@bryantstratton.edu | Unconfirmed (verify) |
+| Bryant & Stratton College - Wisconsin | Kyle Hoffman | krhoffman@bryantstratton.edu | High |
 | CCBC Catonsville | T.J. Prioleau | cardinalsmbasketball@ccbcmd.edu | Unconfirmed (verify) |
 | CCBC Dundalk | Byron King | bking5@ccbcmd.edu | High |
 | Carl Sandburg College | Ryan Twaddle | rtwaddle@sandburg.edu | High |
@@ -26,7 +26,7 @@
 | Chandler-Gilbert Community College | Stephen Silsby | stephen.silsby@cgc.edu | High |
 | Chattahoochee Valley Community College | Marcus Thomas | marcus.thomas@cv.edu | Good (format confirmed) |
 | Chesapeake College | Andrew Sachs | — | Name only |
-| Clackamas Community College | Brian Stamme | — | Name only |
+| Clackamas Community College | Brian Stamme | brians@clackamas.edu | Good (format confirmed) |
 | Clark State College | Mark Parker | parkerm@clarkstate.edu | Good (format confirmed) |
 | Cleveland Community College | Jabarr Adams | — | Name only |
 | Coastal Alabama Community College - North | Chuck Taylor | chuck.taylor@coastalalabama.edu | High |
@@ -48,12 +48,12 @@
 | Ellsworth Community College | Bryan Bender | bryan.bender@iavalley.edu | High |
 | Enterprise State Community College | Jeremaine Williams | jlwilliams@escc.edu | High |
 | Erie Community College | Alex Nwora | nwora@ecc.edu | High |
-| Essex County College | AJ Kemp | andkemp@essex.edu | Unconfirmed (verify) |
+| Essex County College | AJ Kemp | andkemp@essex.edu | High |
 | Fayetteville Technical Community College | Brian Hurd | hurdb@faytechcc.edu | High |
-| Florida Gateway College | Charles Ruise | charles.ruise@fgc.edu | Unconfirmed (verify) |
+| Florida Gateway College | Charles Ruise | charles.ruise@fgc.edu | High |
 | Florida State College at Jacksonville | Toriano Andrews | toriano.andrews@fscj.edu | Guessed (verify) |
 | Forsyth Technical Community College | Lucas Hunter | lhunter@forsythtech.edu | High |
-| Fort Scott Community College | Chad Kline | — | Name only |
+| Fort Scott Community College | Chad Kline | chadk@fortscott.edu | Guessed (verify) |
 | Frederick Community College | Jack Schenzel | jschenzel@frederick.edu | High |
 | Frontier Community College | — | — | Not found yet |
 | Garrett College | Matthew McCullough | matthew.mccullough@garrettcollege.edu | High |
@@ -76,10 +76,10 @@
 | Iowa Lakes Community College | Jason McKinney | jmckinney@iowalakes.edu | High |
 | Iowa Western Community College | Andy Shaw | ashaw@iwcc.edu | High |
 | Jackson College | Chris Johnston | johnstochristoj01@jccmi.edu | High |
-| Jamestown Community College | Xavier Churnac | xavierchurnac@mail.sunyjcc.edu | Unconfirmed (verify) |
+| Jamestown Community College | Xavier Churnac | xavierchurnac@mail.sunyjcc.edu | High |
 | Jefferson College | Cornelius Walker | cwalker7@jeffco.edu | High |
 | John Wood Community College | Austin Banks | abanks@jwcc.edu | High |
-| Johnson County | Rand Chappell | cchapp12@jccc.edu | Unconfirmed (verify) |
+| Johnson County | Rand Chappell | cchapp12@jccc.edu | High |
 | Kalamazoo Valley Community College | Jim Horn | — | Name only |
 | Kansas City Kansas Community College | Taylor Tucker | — | Name only |
 | Kellogg Community College | Steve Proefrock | mbbcoach@kellogg.edu | High |
@@ -93,7 +93,7 @@
 | Lewis and Clark Community College | Kavon Lacey | klacey@lc.edu | Guessed (verify) |
 | Lincoln Land Community College | Ben Kramer | ben.kramer@llcc.edu | High |
 | Louisburg College | Ray Hartsfield | rhartsfield@louisburg.edu | Guessed (verify) |
-| Lurleen B Wallace Community College | Jalen Butler | jbutler@lbwcc.edu | Unconfirmed (verify) |
+| Lurleen B Wallace Community College | Jalen Butler | jbutler@lbwcc.edu | High |
 | Macomb Community College | Jeff Jayson | jaysonj859@macomb.edu | High |
 | Madison College | Malik Wildermuth | mwildermuth@madisoncollege.edu | High |
 | Marian University Plymouth | Ted Hayden | thayden@marian.edu | Good (format confirmed) |
@@ -106,7 +106,7 @@
 | Middlesex College | Winston Smith | — | Name only |
 | Milwaukee Area Technical College | Randy  Casey | caseyrt@matc.edu | High |
 | Monroe Community College | Jerry Burns | gburns@monroecc.edu | High |
-| Montgomery College | Jamaal Wise | jamaal.wise@montgomerycollege.edu | Unconfirmed (verify) |
+| Montgomery College | Jamaal Wise | jamaal.wise@montgomerycollege.edu | High |
 | Moraine Valley Community College | Kyle Huppe | kyle.huppe@morainevalley.edu | High |
 | Morton College | Jon Rush | coachjrush@gmail.com | High |
 | National Park College | Dion Hargrove | dion.hargrove@np.edu | High |
@@ -115,12 +115,12 @@
 | North Central Missouri College | Jeremy Esry | jesry@mail.ncmissouri.edu | High |
 | North Iowa Area Community College | Jeremy Winters | jeremy.winters@niacc.edu | High |
 | Northeast Community College | Josh Clark | joshc@northeast.edu | High |
-| Oakton College | Mick Reuter | mreuter@oakton.edu | Unconfirmed (verify) |
+| Oakton College | Mick Reuter | mreuter@oakton.edu | High |
 | Orange County Community College | Tom Rickard | tom.rickard@sunyorange.edu | Guessed (verify) |
 | Pacific Northwest Christian College | Christopher Partida | christopher.partida@pnwcc.edu | High |
 | Palm Beach State College | Tae Norwood | norwoodt@pbsc.edu | Guessed (verify) |
 | Parkland College | Jimmie Daly | jflores@parkland.edu | High |
-| Pasco-Hernando State College | Phil Gaffney | gaffnep@phsc.edu | Unconfirmed (verify) |
+| Pasco-Hernando State College | Phil Gaffney | gaffnep@phsc.edu | High |
 | Penn Highlands Community College | Chris Weakley | — | Name only |
 | Phillips Community College of the University of Arkansas | McDonald, Anthony | amcdonald@pccua.edu | High |
 | Phoenix College | Jermaine Kimbrough | jermaine.kimbrough@phoenixcollege.edu | Guessed (verify) |
@@ -132,7 +132,7 @@
 | Reid State Community College | Jason Hopkins | jhopkins@reidstate.edu | High |
 | Rend Lake College | Tim Wills | wills@rlc.edu | High |
 | Rock Valley College | Nick Ramos | n.ramos@rockvalleycollege.edu | High |
-| Rockland Community College | John Cavaliere | john.cavaliere@sunyrockland.edu | Unconfirmed (verify) |
+| Rockland Community College | John Cavaliere | john.cavaliere@sunyrockland.edu | High |
 | SUNY Niagara | Bill Beilein | bbeilein@niagaracc.suny.edu | High |
 | Scottsdale Community College | Zachary Harrison | zac.harrison@scottsdalecc.edu | High |
 | Shorter College | Tim Dal Bon | tim.dalbon@shortercollege.edu | High |
@@ -142,7 +142,7 @@
 | South Suburban College | Ron White | rwhite@ssc.edu | High |
 | Southeast Arkansas College | James Voight | — | Name only |
 | Southeastern Illinois College | Sam Swinford | sam.swinford@sic.edu | High |
-| Southern Arkansas University Tech | Bryant Pagan II | bpagan@sautech.edu | Unconfirmed (verify) |
+| Southern Arkansas University Tech | Bryant Pagan II | bpagan@sautech.edu | High |
 | Southwestern Community College (IA) | Darryl Fletcher | dfletcher@swcciowa.edu | High |
 | Southwestern Oregon Community College | Riley Grandinetti | riley.grandinetti@socc.edu | High |
 | Spoon River College | Chance Jones | chance.jones@src.edu | Guessed (verify) |

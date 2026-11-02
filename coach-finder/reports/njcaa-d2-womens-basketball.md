@@ -1,11 +1,11 @@
 # NJCAA D2 Women's Basketball Head Coaches
 
-**130 of 153 teams have a head coach email (85%).** High: 80 · Format confirmed: 5 · Guessed: 23 · Unconfirmed: 22 · Name only: 19 · Not found: 4. Last updated 2026-11-02.
+**130 of 153 teams have a head coach email (85%).** High: 82 · Format confirmed: 5 · Guessed: 23 · Unconfirmed: 20 · Name only: 19 · Not found: 4. Last updated 2026-11-02.
 
 | School | Head coach | Email | Confidence |
 |---|---|---|---|
 | Allen Community College | Leslie Crane | — | Name only |
-| Alpena Community College | Karl Momrik | momrikkh@alpenacc.edu | Unconfirmed (verify) |
+| Alpena Community College | Karl Momrik | momrikkh@alpenacc.edu | High |
 | Anne Arundel Community College | Jessica Mathes | jgmathes@aacc.edu | High |
 | Arkansas State University Mid-South | Tysia Manuel | tmanuel@asumidsouth.edu | Guessed (verify) |
 | Bay College | James Fassett | — | Name only |
@@ -24,7 +24,7 @@
 | Cecil College | Archie Alston III | aalston@cecil.edu | Guessed (verify) |
 | Central Community College Columbus | Kasi Stoltz | kasandrastoltz@cccneb.edu | High |
 | Chandler-Gilbert Community College | Mario Trutanic | mario.trutanic@cgc.edu | High |
-| Chattahoochee Valley Community College | Joe Richardson | jonathan.richardson@cv.edu | Unconfirmed (verify) |
+| Chattahoochee Valley Community College | Joe Richardson | jonathan.richardson@cv.edu | High |
 | Chesapeake College | Gwen Barnes | — | Name only |
 | Clackamas Community College | Jim Martineau | — | Name only |
 | Clark State College | Silas Williams | williamsds@clarkstate.edu | High |

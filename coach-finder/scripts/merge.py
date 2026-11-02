@@ -4,14 +4,15 @@ Usage:  python scripts/merge.py <run_id>
 
 Reads every CSV in data/runs/<run_id>/results/. File name decides the source:
 chrome_*.csv -> status chrome_ok ; search_*.csv -> search_<confidence> ;
-verify_*.csv -> uses the verdict column. Never overwrites a better (tier A) email
+verify_*.csv -> uses the verdict column ; hunter_*.csv -> email verification
+(school,email,hunter_status,score): valid -> tier A, invalid -> email removed. Never overwrites a better (tier A) email
 with a weaker one. Example staff emails are saved for emails.py to learn formats.
 Safe to run repeatedly.
 """
 import sys, glob
 from common import *
 
-RANK = {'scraped': 5, 'chrome_ok': 5, 'college_site': 5, 'confirmed': 5, 'search_high': 4,
+RANK = {'email_verified': 5, 'scraped': 5, 'chrome_ok': 5, 'college_site': 5, 'confirmed': 5, 'search_high': 4,
         'inferred_confirmed': 3, 'search_medium': 2, 'inferred_single': 1, 'search_low': 1}
 
 def main():
@@ -23,6 +24,15 @@ def main():
         for g in read_csv(f):
             r = by.get((g.get('school') or '').strip())
             if not r: continue
+            if kind == 'hunter':  # email verification results (Hunter Email-Verifier)
+                hs = (g.get('hunter_status') or '').strip().lower()
+                if (g.get('email') or '').strip().lower() != r['email']: continue
+                r['email_check'] = f"Hunter {hs} {g.get('score', '')} ({TODAY})".replace('  ', ' ')
+                if hs == 'valid' and r['email_source'] != 'inferred': r['status'] = 'email_verified'
+                elif hs == 'invalid':
+                    r.update(email='', email_source='', status='name_only' if r['name'] else 'not_found')
+                stats['hunter_' + hs] = stats.get('hunter_' + hs, 0) + 1
+                r['tier'] = tier(r); continue
             dc = re.sub(r'\(?\d{3}\)?[\s.-]?\d{3}[\s.-]?\d{4}', '', g.get('dept_contact') or '').strip(' ,;')  # no phone numbers
             if dc: r['dept_contact'] = dc
             for pair in re.split(r';\s*', g.get('example_staff_emails') or ''):
