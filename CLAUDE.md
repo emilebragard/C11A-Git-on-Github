@@ -15,7 +15,7 @@
 - Never print raw HTML into context. Scripts save HTML to `cache/` and print summaries only.
 - Debug with `grep -m5 -C2`, never `cat` on HTML.
 - Cap all script output (counts + first 5 failures).
-- One session; no subagents.
+- One session; no subagents. Exception (approved by user): Haiku helpers may run web-search batches for PrestoSports-blocked schools, hard stop at $15 for that pass.
 - Cache every HTTP response; reruns must hit cache.
 
 ## Tooling limits
