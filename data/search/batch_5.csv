@@ -1,0 +1,27 @@
+school,sport,name,title,email,phone,source_url,confidence,note
+Phoenix College,men,,,,,,none,Search rate-limited; not found
+Phoenix College,women,,,,,,none,Search rate-limited; not found
+Jamestown Community College,men,,,,,,none,Conflicting old coach names; none confirmed
+Jamestown Community College,women,,,,,,none,Conflicting old coach names; none confirmed
+Kishwaukee College,men,,,,,,none,Search rate-limited; not found
+Kishwaukee College,women,,,,,,none,Search rate-limited; not found
+Florida State College at Jacksonville,men,,,,,,none,Search rate-limited; not found
+Florida State College at Jacksonville,women,,,,,,none,Search rate-limited; not found
+Forsyth Technical Community College,men,Lucas Hunter,Head Coach,Lhunter@forsythtech.edu,336.757.3563,https://forsythtechnicalcc.prestosports.com/information/directory/index,medium,Directory labeled 2025-26; confirm still current
+Iowa Central Community College,men,,,,,,none,Search rate-limited; not found
+Iowa Central Community College,women,,,,,,none,Search rate-limited; not found
+Southwestern Community College (IA),men,,,,,,none,Search rate-limited; not found
+Southwestern Community College (IA),women,,,,,,none,Search rate-limited; not found
+Edison State Community College,men,,,,,,none,Search rate-limited; not found
+Edison State Community College,women,,,,,,none,Search rate-limited; not found
+Lansing Community College,men,,,,,,none,Search rate-limited; not found
+Lansing Community College,women,,,,,,none,Search rate-limited; not found
+County College of Morris,men,Anthony Obery,Head Coach,mens_basketball@ccm.edu,973-328-5258,https://countycollegeofmorris.prestosports.com/information/directory/index,medium,Directory is older snapshot; confirm current
+County College of Morris,women,,,,,,none,Women's email found but no head coach named
+Orange County Community College,men,,,,,,none,Search rate-limited; not found
+Orange County Community College,women,,,,,,none,Search rate-limited; not found
+Umpqua Community College,men,Daniel Leeworthy,Head Coach,daniel.leeworthy@umpqua.edu,541-440-7717,https://umpqua.prestosports.com/information/directory/index,high,Staff directory lists current head coach and email
+Umpqua Community College,women,Dave Stricklin,Head Coach,dave.stricklin@umpqua.edu,,https://umpqua.prestosports.com/information/directory/index,high,Staff directory lists current head coach and email
+Hagerstown Community College,women,,,,,,none,Search rate-limited; not found
+Marion Military Institute,men,Timothy Rodgers,Head Coach,trodgers@marionmilitary.edu,334-683-2357,https://marionmilitary.prestosports.com/information/directory/index,high,Staff directory and athletics profile list head coach
+Rend Lake College,men,Tim Wills,Head Coach,wills@rlc.edu,,https://rlc.prestosports.com/information/directory/index,medium,Directory undated; 2024 release confirms Wills as coach
