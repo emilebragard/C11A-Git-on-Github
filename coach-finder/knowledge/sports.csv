@@ -1,0 +1,32 @@
+sport_key,label,gender,ncaa_code,njcaa_code,sidearm_slug,presto_code,keywords,codes_verified
+mens-basketball,Men's Basketball,M,MBB,mbkb,mens-basketball,mbkb,\bmen'?s basketball|\bmbb\b|mbkb,2026-11-02
+womens-basketball,Women's Basketball,W,WBB,wbkb,womens-basketball,wbkb,women'?s basketball|\bwbb\b|wbkb,2026-11-02
+baseball,Baseball,M,MBA,bsb,baseball,bsb,baseball|\bbsb\b,2026-11-02
+softball,Softball,W,WSB,sball,softball,sball,softball|sball,2026-11-02
+mens-soccer,Men's Soccer,M,MSO,msoc,mens-soccer,msoc,\bmen'?s soccer|msoc,2026-11-02
+womens-soccer,Women's Soccer,W,WSO,wsoc,womens-soccer,wsoc,women'?s soccer|wsoc,2026-11-02
+womens-volleyball,Women's Volleyball,W,WVB,wvball,womens-volleyball,wvball,women'?s volleyball|wvball|^volleyball,2026-11-02
+mens-volleyball,Men's Volleyball,M,MVB,mvball,mens-volleyball,mvball,\bmen'?s volleyball|mvball,2026-11-02
+football,Football,M,MFB,fball,football,fball,football|fball,2026-11-02
+mens-water-polo,Men's Water Polo,M,MWP,,mens-water-polo,mwpolo,\bmen'?s water polo|mwpolo,2026-11-02
+womens-water-polo,Women's Water Polo,W,WWP,,womens-water-polo,wwpolo,women'?s water polo|wwpolo,2026-11-02
+mens-cross-country,Men's Cross Country,M,MCC,mxc,mens-cross-country,mxc,\bmen'?s cross country|mxc,2026-11-02
+womens-cross-country,Women's Cross Country,W,WCC,wxc,womens-cross-country,wxc,women'?s cross country|wxc,2026-11-02
+mens-track,Men's Track & Field,M,MTO,mtrack,mens-track-and-field,mtrack,\bmen'?s track|mtrack,2026-11-02
+womens-track,Women's Track & Field,W,WTO,wtrack,womens-track-and-field,wtrack,women'?s track|wtrack,2026-11-02
+mens-golf,Men's Golf,M,MGO,mgolf,mens-golf,mgolf,\bmen'?s golf|mgolf,2026-11-02
+womens-golf,Women's Golf,W,WGO,wgolf,womens-golf,wgolf,women'?s golf|wgolf,2026-11-02
+mens-tennis,Men's Tennis,M,MTE,mten,mens-tennis,mten,\bmen'?s tennis|mten,2026-11-02
+womens-tennis,Women's Tennis,W,WTE,wten,womens-tennis,wten,women'?s tennis|wten,2026-11-02
+wrestling,Wrestling,M,MWR,wrest,wrestling,wrest,wrestling,2026-11-02
+womens-wrestling,Women's Wrestling,W,WWR,wwrest,womens-wrestling,wwrest,women'?s wrestling,2026-11-02
+mens-lacrosse,Men's Lacrosse,M,MLA,mlax,mens-lacrosse,mlax,\bmen'?s lacrosse|mlax,2026-11-02
+womens-lacrosse,Women's Lacrosse,W,WLA,wlax,womens-lacrosse,wlax,women'?s lacrosse|wlax,2026-11-02
+mens-swimming,Men's Swimming & Diving,M,MSW,mswimdive,mens-swimming-and-diving,mswimdive,\bmen'?s swim|mswim,2026-11-02
+womens-swimming,Women's Swimming & Diving,W,WSW,wswimdive,womens-swimming-and-diving,wswimdive,women'?s swim|wswim,2026-11-02
+mens-ice-hockey,Men's Ice Hockey,M,MIH,,mens-ice-hockey,mice,\bmen'?s (ice )?hockey|mice,2026-11-02
+womens-ice-hockey,Women's Ice Hockey,W,WIH,,womens-ice-hockey,wice,women'?s (ice )?hockey|wice,2026-11-02
+field-hockey,Field Hockey,W,WFH,,field-hockey,fhockey,field hockey|fhockey,2026-11-02
+womens-bowling,Women's Bowling,W,WBW,wbowl,womens-bowling,wbowl,women'?s bowling|wbowl,2026-11-02
+beach-volleyball,Beach Volleyball,W,WSV,beachvball,beach-volleyball,bvball,beach volleyball|bvball,2026-11-02
+mens-bowling,Men's Bowling,M,,mbowl,mens-bowling,mbowl,\bmen'?s bowling|mbowl,2026-11-02

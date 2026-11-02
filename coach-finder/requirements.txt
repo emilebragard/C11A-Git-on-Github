@@ -1,0 +1,4 @@
+httpx
+selectolax>=0.3.21
+playwright
+dnspython

@@ -1,0 +1,202 @@
+association,school,school_id,athletics_url,final_url,platform,email_domain,checked
+NCAA,Brown University,80,http://www.brownbears.com/,,blocked,brown.edu,2026-11-02
+NCAA,Bucknell University,83,http://bucknellbison.com/,,blocked,bucknell.edu,2026-11-02
+NCAA,California Baptist University,30135,http://www.cbulancers.com/,,blocked,calbaptist.edu,2026-11-02
+NCAA,"California State University, Fullerton",97,http://www.fullertontitans.com/,,blocked,fullerton.edu,2026-11-02
+NCAA,Fordham University,236,http://www.fordhamsports.com/,,blocked,fordham.edu,2026-11-02
+NCAA,George Washington University,249,http://www.gwsports.com/index.html,,blocked,gwu.edu,2026-11-02
+NCAA,Harvard University,275,http://https//gocrimson.com/,,unreachable,https,2026-11-02
+NCAA,Iona University,310,http://www.ionagaels.com/,,blocked,iona.edu,2026-11-02
+NCAA,Long Beach State University,99,http://longbeachstate.com/,,sidearm,csulb.edu,2026-11-02
+NCAA,Long Island University,361,http://www.liuathletics.com/,,blocked,liu.edu,2026-11-02
+NCAA,Loyola Marymount University,370,http://www.lmulions.com/,,blocked,lmu.edu,2026-11-02
+NCAA,Mercyhurst University,408,http://www.hurstathletics.com/,,blocked,mercyhurst.edu,2026-11-02
+NCAA,Mount St. Mary's University,450,http://www.mountathletics.com/,,blocked,msmary.edu,2026-11-02
+NCAA,Pepperdine University,541,http://www.pepperdinewaves.com/,,blocked,pepperdine.edu,2026-11-02
+NCAA,Princeton University,554,http://www.goprincetontigers.com/,,blocked,princeton.edu,2026-11-02
+NCAA,Saint Mary's College of California,610,http://www.smcgaels.com/,,blocked,stmarys-ca.edu,2026-11-02
+NCAA,San Jose State University,630,http://www.sjsuspartans.com/,,wmt,sjsu.edu,2026-11-02
+NCAA,Santa Clara University,631,http://santaclarabroncos.com/,,blocked,scu.edu,2026-11-02
+NCAA,Stanford University,674,http://gostanford.com/,,wmt,stanford.edu,2026-11-02
+NCAA,U.S. Air Force Academy,721,http://www.goairforcefalcons.com/,,blocked,usafa.edu,2026-11-02
+NCAA,U.S. Naval Academy,726,http://www.navysports.com/,,blocked,usna.edu,2026-11-02
+NCAA,"University of California, Berkeley",107,http://www.calbears.com/,,blocked,berkeley.edu,2026-11-02
+NCAA,"University of California, Davis",108,http://www.ucdavisaggies.com/,,blocked,ucdavis.edu,2026-11-02
+NCAA,"University of California, Irvine",109,http://https//ucirvinesports.com/,,unreachable,uci.edu,2026-11-02
+NCAA,"University of California, Los Angeles",110,http://www.uclabruins.com/,,wmt,ucla.edu,2026-11-02
+NCAA,"University of California, San Diego",112,http://www.ucsdtritons.com/,,blocked,ucsd.edu,2026-11-02
+NCAA,"University of California, Santa Barbara",104,http://ucsbgauchos.com/,,blocked,ucsb.edu,2026-11-02
+NCAA,University of Southern California,657,http://usctrojans.com/,,blocked,usc.edu,2026-11-02
+NCAA,University of the Pacific,534,http://www.pacifictigers.com/,,blocked,pacific.edu,2026-11-02
+NCAA,Wagner College,748,http://www.wagnerathletics.com/,,blocked,wagner.edu,2026-11-02
+NJCAA,Allen Community College,406050672539076557,https://www.allenreddevils.com/landing/index,https://www.allenreddevils.com/landing/index,blocked,allencc.edu,2026-11-02
+NJCAA,Alpena Community College,407959381607449824,https://acclumberjacks.com/landing/index,https://acclumberjacks.com/landing/index,blocked,alpenacc.edu,2026-11-02
+NJCAA,Anne Arundel Community College,406061562420266735,https://aaccathletics.com/landing/index,https://aaccathletics.com/landing/index,blocked,aacc.edu,2026-11-02
+NJCAA,Arkansas State University Mid-South,408020167264568369,https://www.asumidsouthsports.com/landing/index,https://www.asumidsouthsports.com/landing/index,blocked,,2026-11-02
+NJCAA,Bay College,407485095440549665,https://www.baycollegenorse.com/landing/index,https://www.baycollegenorse.com/landing/index,blocked,,2026-11-02
+NJCAA,Bevill State Community College,413271939541370322,https://www.athletics.bscc.edu/,https://www.athletics.bscc.edu/,other,,2026-11-02
+NJCAA,Big Bend Community College,407294361361975291,https://bbccvikings.com/,https://bbccvikings.com/,blocked,bigbend.edu,2026-11-02
+NJCAA,Black Hawk College,407481170704467606,https://www.bhc.edu/athletics/,https://www.bhc.edu/athletics/,other,bhc.edu,2026-11-02
+NJCAA,Blackhawk Technical College,461526842055067360,https://athletics.blackhawk.edu/,https://athletics.blackhawk.edu/,blocked,blackhawk.edu,2026-11-02
+NJCAA,Brunswick Community College,413979683957245693,https://www.gobccsports.com/landing/index,https://www.gobccsports.com/landing/index,blocked,,2026-11-02
+NJCAA,Bryant & Stratton College - Ohio,407981915748960123,https://ohio.bscbobcats.com/landing/index,https://ohio.bscbobcats.com/landing/index,blocked,bryantstratton.edu,2026-11-02
+NJCAA,Bryant & Stratton College - Virginia,407475917405816553,https://virginia.bscbobcats.com/landing/index,https://virginia.bscbobcats.com/landing/index,blocked,bryantstratton.edu,2026-11-02
+NJCAA,Bryant & Stratton College - Wisconsin,413978746026984783,https://wisconsin.bscbobcats.com/,https://wisconsin.bscbobcats.com/,blocked,bryantstratton.edu,2026-11-02
+NJCAA,CCBC Catonsville,414004226826437877,,,no_url,ccbcmd.edu,2026-11-02
+NJCAA,CCBC Dundalk,414004227019375872,,,no_url,ccbcmd.edu,2026-11-02
+NJCAA,CCBC Essex,413978119716734227,,,no_url,ccbcmd.edu,2026-11-02
+NJCAA,Cape Fear Community College,406054402768503916,https://www.goseadevils.com/landing/index,https://www.goseadevils.com/landing/index,blocked,,2026-11-02
+NJCAA,Carl Sandburg College,407481167474853391,https://sandburgchargers.com/landing/index,https://sandburgchargers.com/landing/index,blocked,sandburg.edu,2026-11-02
+NJCAA,Catawba Valley Community College,412704252054472642,https://www.gocvcc.com/landing/index,https://www.gocvcc.com/landing/index,blocked,cvcc.edu,2026-11-02
+NJCAA,Cecil College,407475922648696666,https://cecilathletics.com/landing/index,https://cecilathletics.com/landing/index,blocked,,2026-11-02
+NJCAA,Central Carolina Community College,418346470656182105,https://www.cccc.edu/athletics/,https://www.cccc.edu/student-life/athletics,drupal,cccc.edu,2026-11-02
+NJCAA,Central Community College Columbus,407494966298805455,https://www.cccraiders.com/landing/index,https://www.cccraiders.com/landing/index,blocked,cccneb.edu,2026-11-02
+NJCAA,Chandler-Gilbert Community College,418346465874675276,https://cgccathletics.com/landing/index,https://cgccathletics.com/landing/index,blocked,cgc.edu,2026-11-02
+NJCAA,Chattahoochee Valley Community College,413271942049564214,https://cvpirates.com/landing/index,https://cvpirates.com/landing/index,blocked,cv.edu,2026-11-02
+NJCAA,Chesapeake College,407475923026184037,https://www.letsgoskipjacks.com/landing/index,https://www.letsgoskipjacks.com/landing/index,blocked,,2026-11-02
+NJCAA,Clackamas Community College,407821833199421156,https://www.clackamascougars.com/,https://www.clackamascougars.com/,blocked,,2026-11-02
+NJCAA,Clark State College,413979277864732101,https://www.clarkstateeagles.com/,https://www.clarkstateeagles.com/,blocked,clarkstate.edu,2026-11-02
+NJCAA,Cleveland Community College,418346471830586378,https://cccyetis.com/,https://cccyetis.com/,other,,2026-11-02
+NJCAA,Coastal Alabama Community College - North,418346475387356818,https://coastalcoyotesnorth.com/,https://coastalcoyotesnorth.com/,sidearm,coastalalabama.edu,2026-11-02
+NJCAA,College of DuPage,407481172357023434,https://gochapsgo.com/,https://gochapsgo.com/,sidearm,cod.edu,2026-11-02
+NJCAA,College of Lake County,407481168112387628,https://clclancers.com/,https://clclancers.com/,sidearm,clcillinois.edu,2026-11-02
+NJCAA,College of Southern Maryland,407475921835001668,https://athletics.csmd.edu/landing/index,https://athletics.csmd.edu/landing/index,blocked,csmd.edu,2026-11-02
+NJCAA,Community College of Beaver County,407475916122359505,https://ccbctitans.com/landing/index,https://ccbctitans.com/landing/index,blocked,ccbc.edu,2026-11-02
+NJCAA,County College of Morris,406156326083757334,https://ccmathletics.com/landing/index,https://ccmathletics.com/landing/index,blocked,ccm.edu,2026-11-02
+NJCAA,Cuyahoga Community College,407765182354294668,https://athletics.tri-c.edu/,https://athletics.tri-c.edu/,blocked,tri-c.edu,2026-11-02
+NJCAA,Dakota College at Bottineau,413266757990483532,https://dcbjacks.com/landing/index,https://dcbjacks.com/landing/index,blocked,dakotacollege.edu,2026-11-02
+NJCAA,Dakota County Technical College,406735951415477815,https://www.goblueknights.com/,https://www.goblueknights.com/,blocked,dctc.edu,2026-11-02
+NJCAA,Danville Area Community College,406069673583445053,https://danvillejaguars.com/,https://danvillejaguars.com/,sidearm,dacc.edu,2026-11-02
+NJCAA,Davidson-Davie Community College,413979671365944665,https://www.davidsondavie.edu/athletics,https://www.davidsondavie.edu/athletics,other,,2026-11-02
+NJCAA,Delaware Technical Community College,407978536624719070,https://www.dtcc.edu/athletics,https://www.dtcc.edu/athletics/,other,,2026-11-02
+NJCAA,Delta College,412709723800863915,https://www.deltacollegeducks.com/landing/index,https://www.deltacollegeducks.com/landing/index,blocked,,2026-11-02
+NJCAA,Denmark Technical College,475917922292729593,https://www.denmarktech.edu/athletics,https://www.denmarktech.edu/athletics/,wordpress,denmarktecch.edu,2026-11-02
+NJCAA,Des Moines Area Community College,406159402798680036,https://www.dmaccbears.com/landing/index,https://www.dmaccbears.com/landing/index,blocked,dmacc.edu,2026-11-02
+NJCAA,Edison State Community College,407765180181645140,https://athletics.edisonohio.edu/landing/index,https://athletics.edisonohio.edu/landing/index,blocked,edisonohio.edu,2026-11-02
+NJCAA,Elgin Community College,406085939765445994,https://elginspartans.com/landing/index,https://elginspartans.com/landing/index,blocked,elgin.edu,2026-11-02
+NJCAA,Ellsworth Community College,406086495527503522,https://www.eccathletics.com/landing/index,https://www.eccathletics.com/landing/index,blocked,iavalley.edu,2026-11-02
+NJCAA,Enterprise State Community College,406088009142765058,https://www.escc.edu/athletics,https://escc.prestosports.com/landing/index,presto,escc.edu,2026-11-02
+NJCAA,Erie Community College,407509474857714689,https://athletics.ecc.edu/landing/index,https://athletics.ecc.edu/landing/index,blocked,ecc.edu,2026-11-02
+NJCAA,Essex County College,406088946628429678,https://www.essexwolverines.com/landing/index,https://www.essexwolverines.com/landing/index,blocked,essex.edu,2026-11-02
+NJCAA,Fayetteville Technical Community College,418346467619505409,https://athletics.faytechcc.edu/,https://athletics.faytechcc.edu/,blocked,faytechcc.edu,2026-11-02
+NJCAA,Florida Gateway College,418346465958561428,https://fgcwolves.com/landing/index,https://fgcwolves.com/landing/index,blocked,fgc.edu,2026-11-02
+NJCAA,Florida State College at Jacksonville,412577824608618482,https://fscjmantarays.com/landing/index,https://fscjmantarays.com/landing/index,blocked,fscj.edu,2026-11-02
+NJCAA,Forsyth Technical Community College,406090880529728902,https://www.forsythtechtrailblazers.com/landing/index,https://www.forsythtechtrailblazers.com/landing/index,blocked,forsythtech.edu,2026-11-02
+NJCAA,Fort Scott Community College,412712418909619539,https://www.fsgreyhounds.com/,https://www.fsgreyhounds.com/,blocked,fortscott.edu,2026-11-02
+NJCAA,Frederick Community College,406093009071900156,https://fccathletics.com/landing/index,https://fccathletics.com/landing/index,blocked,frederick.edu,2026-11-02
+NJCAA,Frontier Community College,412581052645639279,https://www.fccbobcats.com/,https://www.fccbobcats.com/,blocked,,2026-11-02
+NJCAA,Garrett College,406094415497529064,https://www.garrettlakers.com/landing/index,https://www.garrettlakers.com/landing/index,blocked,garrettcollege.edu,2026-11-02
+NJCAA,Gateway Community College-AZ,422454575073593081,https://gogeckos.com/landing/index,https://gogeckos.com/landing/index,blocked,,2026-11-02
+NJCAA,Glen Oaks Community College,406098734783399262,https://www.glenoaksathletics.com/landing/index,https://www.glenoaksathletics.com/landing/index,blocked,glenoaks.edu,2026-11-02
+NJCAA,Glendale Community College,408009949487039772,https://www.gauchoathletics.com/landing/index,https://www.gauchoathletics.com/landing/index,blocked,glendale.edu,2026-11-02
+NJCAA,Gogebic Community College,406098929071949181,https://gogebicsamsons.com/landing/index,https://gogebicsamsons.com/landing/index,blocked,gogebic.edu,2026-11-02
+NJCAA,Grand Rapids Community College,407485096891778881,https://www.grccraiders.com/,https://grccraiders.com/,sidearm,grcc.edu,2026-11-02
+NJCAA,Guilford Technical Community College,413979666718655707,https://gtcctitans.com/landing/index,https://gtcctitans.com/landing/index,blocked,gtcc.edu,2026-11-02
+NJCAA,Hagerstown Community College,407475942621971638,https://athletics.hagerstowncc.edu/landing/index,https://athletics.hagerstowncc.edu/landing/index,blocked,hagerstowncc.edu,2026-11-02
+NJCAA,Harcum College,407475916969608926,https://www.harcum.edu/s/1044/bp20/interior.aspx?sid=1044&gid=1&pgid=1135,https://www.harcum.edu/s/1044/bp20/interior.aspx?sid=1044&gid=1&pgid=1135,other,,2026-11-02
+NJCAA,Harper College,406087924837254567,https://www.harperhawks.net/,https://www.harperhawks.net/,sidearm,harpercollege.edu,2026-11-02
+NJCAA,Harrisburg Area Community College,412591329806124819,https://hacchawks.com/landing/index,https://hacchawks.com/landing/index,blocked,hacc.edu,2026-11-02
+NJCAA,Henry Ford College,412592513673594699,https://www.hfcc.edu/athletics,https://www.hfcc.edu/athletics,other,,2026-11-02
+NJCAA,Highland Community College-Kansas,407759808310019957,https://scottieathletics.com/,https://scottieathletics.com/,sidearm,highlandcc.edu,2026-11-02
+NJCAA,Hillsborough Community College,406101307401700851,https://hcflhawks.com/landing/index,https://hcflhawks.com/landing/index,blocked,hccfl.edu,2026-11-02
+NJCAA,Howard Community College,407418157888701861,https://howardccdragons.com/index.aspx,https://howardccdragons.com/index.aspx,sidearm,howardcc.edu,2026-11-02
+NJCAA,Illinois Central College,407419294813521469,https://illinoiscentralcougars.com/,https://illinoiscentralcougars.com/,sidearm,icc.edu,2026-11-02
+NJCAA,Illinois Valley Community College,407481168666035778,https://ivcceagles.com/landing/index,https://ivcceagles.com/landing/index,blocked,,2026-11-02
+NJCAA,Iowa Central Community College,407421023697241126,https://www.ictritons.com/landing/index,https://www.ictritons.com/landing/index,blocked,iowacentral.edu,2026-11-02
+NJCAA,Iowa Lakes Community College,406105370944078910,https://www.iowalakesathletics.com/landing/index,https://www.iowalakesathletics.com/landing/index,blocked,iowalakes.edu,2026-11-02
+NJCAA,Iowa Western Community College,406106090745365753,https://www.goreivers.com/landing/index,https://www.goreivers.com/landing/index,blocked,iwcc.edu,2026-11-02
+NJCAA,Jackson College,412709681086071866,https://www.jacksoncollegejets.com/landing/index,https://www.jacksoncollegejets.com/landing/index,blocked,jccmi.edu,2026-11-02
+NJCAA,Jamestown Community College,407765175651796725,https://jccjayhawks.com/landing/index,https://jccjayhawks.com/landing/index,blocked,mail.sunyjcc.edu,2026-11-02
+NJCAA,Jefferson College,406053315831400360,https://athletics.jeffco.edu/,https://athletics.jeffco.edu/,blocked,jeffco.edu,2026-11-02
+NJCAA,John Wood Community College,407495523310765976,https://www.johnwoodblazers.com/landing/index,https://www.johnwoodblazers.com/landing/index,blocked,jwcc.edu,2026-11-02
+NJCAA,Johnson County,407494968177853694,,,no_url,jccc.edu,2026-11-02
+NJCAA,Kalamazoo Valley Community College,412709743790916845,https://athletics.kvcc.edu/landing/index,https://athletics.kvcc.edu/landing/index,blocked,,2026-11-02
+NJCAA,Kankakee Community College,414005672535918360,https://athletics.kcc.edu/,https://athletics.kcc.edu/,blocked,kcc.edu,2026-11-02
+NJCAA,Kansas City Kansas Community College,407759807890589544,https://bluedevils.kckcc.edu/landing/index,https://bluedevils.kckcc.edu/landing/index,blocked,,2026-11-02
+NJCAA,Kaskaskia College,407495554373780957,https://www.kaskaskiaathletics.com/landing/index,https://www.kaskaskiaathletics.com/landing/index,blocked,kaskaskia.edu,2026-11-02
+NJCAA,Kellogg Community College,418346467049080786,https://www.kelloggbruins.com/landing/index,https://www.kelloggbruins.com/landing/index,blocked,kellogg.edu,2026-11-02
+NJCAA,Kirkwood Community College,406108233229404068,https://www.kirkwoodeagles.com/landing/index,https://www.kirkwoodeagles.com/landing/index,blocked,kirkwood.edu,2026-11-02
+NJCAA,Kirtland Community College,406108578319960009,https://kirtlandfirebirds.com/landing/index,https://kirtlandfirebirds.com/landing/index,blocked,kirtland.edu,2026-11-02
+NJCAA,Kishwaukee College,407481170008213109,https://www.kishkougars.com/landing/index,https://www.kishkougars.com/landing/index,blocked,kish.edu,2026-11-02
+NJCAA,Labette Community College,412616908425135483,https://www.labette.edu/athletics/index.html,https://www.labette.edu/athletics/index.html,presto,labette.edu,2026-11-02
+NJCAA,Lake Land College,412618003222366028,https://lakelandcollegeathletics.com/landing/index,https://lakelandcollegeathletics.com/landing/index,blocked,lakelandcollege.edu,2026-11-02
+NJCAA,Lake Michigan College,412619785231140183,https://redhawks.lakemichigancollege.edu/landing/index,https://redhawks.lakemichigancollege.edu/landing/index,blocked,lakemichigancollege.edu,2026-11-02
+NJCAA,Lakeland Community College,406108718451655686,https://athletics.lakelandcc.edu/landing/index,https://athletics.lakelandcc.edu/landing/index,blocked,lakelandcc.edu,2026-11-02
+NJCAA,Lansing Community College,412621872115484145,https://www.lccstars.com/landing/index,https://www.lccstars.com/landing/index,blocked,lcc.edu,2026-11-02
+NJCAA,Lewis and Clark Community College,407495525751850957,https://www.trailblazers.lc.edu/landing/index,https://www.trailblazers.lc.edu/landing/index,blocked,,2026-11-02
+NJCAA,Lincoln Land Community College,407495525315643330,https://lincolnlandloggers.com/,https://lincolnlandloggers.com/,sidearm,llcc.edu,2026-11-02
+NJCAA,Louisburg College,418346464574441466,https://www.lchurricanes.com/landing/index,https://www.lchurricanes.com/landing/index,blocked,louisburg.edu,2026-11-02
+NJCAA,Lurleen B Wallace Community College,406110427487929605,https://lbwsaints.com/landing/index,https://lbwsaints.com/landing/index,blocked,lbwcc.edu,2026-11-02
+NJCAA,Macomb Community College,407765177346295584,https://macombmonarchs.com/,https://macombmonarchs.com/,sidearm,macomb.edu,2026-11-02
+NJCAA,Madison College,406053947611023081,https://www.madisoncollegeathletics.com/,https://madisoncollegeathletics.com/,sidearm,madisoncollege.edu,2026-11-02
+NJCAA,Marian University Plymouth,407754194041177230,https://marianplymouthchargers.com/landing/index,https://marianplymouthchargers.com/landing/index,blocked,marian.edu,2026-11-02
+NJCAA,Marion Military Institute,407479535244674355,https://www.mmitigers.com/landing/index,https://www.mmitigers.com/landing/index,blocked,marionmilitary.edu,2026-11-02
+NJCAA,Marshalltown Community College,407759869714630632,https://www.mccathletics.com/landing/index,https://www.mccathletics.com/landing/index,blocked,iavalley.edu,2026-11-02
+NJCAA,Massasoit Community College,412629446407751586,https://massasoitccwarriors.com/landing/index,https://massasoitccwarriors.com/landing/index,blocked,massasoit.mass.edu,2026-11-02
+NJCAA,McHenry County College,407481167902672417,https://www.mccscots.com/landing/index,https://www.mccscots.com/landing/index,blocked,mchenry.edu,2026-11-02
+NJCAA,Mercer County Community College,418346467351069800,https://www.mccc.edu/athletics_home.shtml,https://www.mccc.edu/athletics_home.shtml,other,mccc.edu,2026-11-02
+NJCAA,Mesa Community College,418346458702414930,https://mesatbirdsports.com/landing/index,https://mesatbirdsports.com/landing/index,blocked,mesacc.edu,2026-11-02
+NJCAA,Metropolitan Community College,412633030205638099,https://mcckcathletics.com/landing/index,https://mcckcathletics.com/landing/index,blocked,,2026-11-02
+NJCAA,Mid Michigan College,406113127445300886,https://midmichlakers.com/landing/index,https://midmichlakers.com/landing/index,blocked,midmich.edu,2026-11-02
+NJCAA,Middlesex College,418346472501675129,https://middlesexcoltsathletics.com/landing/index,https://middlesexcoltsathletics.com/landing/index,blocked,,2026-11-02
+NJCAA,Milwaukee Area Technical College,407481169504896607,https://www.matcstormers.com/,https://matcstormers.com/,sidearm,matc.edu,2026-11-02
+NJCAA,Monroe Community College,407765176540989199,https://mcctribunes.com/landing/index,https://mcctribunes.com/landing/index,blocked,monroecc.edu,2026-11-02
+NJCAA,Montgomery College,407475922212489039,https://www.mcraptors.com/,https://www.mcraptors.com/,blocked,montgomerycollege.edu,2026-11-02
+NJCAA,Moraine Valley Community College,407485098343008101,https://mvcyclones.com/landing/index,https://mvcyclones.com/landing/index,blocked,morainevalley.edu,2026-11-02
+NJCAA,Morton College,407485090583545566,https://gomcpanthers.com/,https://gomcpanthers.com/,sidearm,morton.edu,2026-11-02
+NJCAA,National Park College,413978404182820263,https://athletics.np.edu/,https://athletics.np.edu/,blocked,np.edu,2026-11-02
+NJCAA,Neosho County,407759807496324955,,,no_url,neosho.edu,2026-11-02
+NJCAA,North Arkansas College,412712351666537666,https://www.northark.edu/athletics,https://www.northark.edu/athletics,other,northark.edu,2026-11-02
+NJCAA,North Central Missouri College,407494967791977715,https://ncmcpirates.com/landing/index,https://ncmcpirates.com/landing/index,blocked,mail.ncmissouri.edu,2026-11-02
+NJCAA,North Iowa Area Community College,407481166954759673,https://www.niacctrojans.com/landing/index,https://www.niacctrojans.com/landing/index,blocked,niacc.edu,2026-11-02
+NJCAA,Northeast Community College,407759812344940497,https://www.northeasthawks.com/landing/index,https://www.northeasthawks.com/landing/index,blocked,northeast.edu,2026-11-02
+NJCAA,Oakton College,406054708575209308,https://oakton-owls.com/,https://oakton-owls.com/,sidearm,oakton.edu,2026-11-02
+NJCAA,Orange County Community College,412662136796349961,https://sunyorangecolts.com/landing/index,https://sunyorangecolts.com/landing/index,blocked,sunyorange.edu,2026-11-02
+NJCAA,Pacific Northwest Christian College,413922194771412560,https://pnwccgladiators.com/,https://pnwccgladiators.com/,sidearm,pnwcc.edu,2026-11-02
+NJCAA,Palm Beach State College,412663708460779327,https://www.pbscpanthers.com/landing/index,https://www.pbscpanthers.com/landing/index,blocked,,2026-11-02
+NJCAA,Parkland College,407495527052085230,https://athletics.parkland.edu/,https://athletics.parkland.edu/,sidearm,parkland.edu,2026-11-02
+NJCAA,Pasco-Hernando State College,406130122345678644,https://bobcats.phsc.edu/,https://bobcats.phsc.edu/,drupal,phsc.edu,2026-11-02
+NJCAA,Penn Highlands Community College,407475914553689773,https://www.pennhighlands.edu/student-life/athletics/,https://www.pennhighlands.edu/student-life/athletics/,other,,2026-11-02
+NJCAA,Phillips Community College of the University of Arkansas,418346465841120820,https://www.pccua.edu/athletics,https://www.pccua.edu/athletics,other,pccua.edu,2026-11-02
+NJCAA,Phoenix College,408009949101163791,https://pcbearsathletics.com/landing/index,https://pcbearsathletics.com/landing/index,blocked,phoenixcollege.edu,2026-11-02
+NJCAA,Pima Community College,418346458912130160,https://pimaaztecs.com/landing/index,https://pimaaztecs.com/landing/index,blocked,pima.edu,2026-11-02
+NJCAA,Pitt Community College,418346464691880981,https://www.pccbulldogathletics.com/landing/index,https://www.pccbulldogathletics.com/landing/index,blocked,my.pittcc.edu,2026-11-02
+NJCAA,Prairie State College,407481169790109290,https://prairiestateathletics.com/,https://prairiestateathletics.com/,sidearm,prairiestate.edu,2026-11-02
+NJCAA,Prince George's Community College,407475920526378791,https://www.pgccowls.com/landing/index,https://www.pgccowls.com/landing/index,blocked,pgcc.edu,2026-11-02
+NJCAA,Raritan Valley Community College,407470760240613173,https://www.rvccathletics.com/landing/index,https://www.rvccathletics.com/landing/index,blocked,,2026-11-02
+NJCAA,Reid State Community College,406134425802245284,https://rslions.com/landing/index,https://rslions.com/landing/index,blocked,reidstate.edu,2026-11-02
+NJCAA,Rend Lake College,407495526624266211,https://rendlakewarriors.com/landing/index,https://rendlakewarriors.com/landing/index,blocked,rlc.edu,2026-11-02
+NJCAA,Richard Bland College,406135109364745778,https://gorbcathletics.com/,https://gorbcathletics.com/,other,,2026-11-02
+NJCAA,Rochester Community and Technical College,408019367083639869,https://www.rctcyellowjackets.com/landing/index,https://www.rctcyellowjackets.com/landing/index,blocked,,2026-11-02
+NJCAA,Rock Valley College,407481170251482752,https://rvcsports.com/,https://rvcsports.com/,sidearm,rockvalleycollege.edu,2026-11-02
+NJCAA,Rockland Community College,407981824002753801,https://rcchawks.com/landing/index,https://rcchawks.com/landing/index,blocked,sunyrockland.edu,2026-11-02
+NJCAA,SUNY Niagara,414004219931002311,,,no_url,niagaracc.suny.edu,2026-11-02
+NJCAA,Salem Community College,418346467393012861,https://sccmightyoaks.com/landing/index,https://sccmightyoaks.com/landing/index,blocked,salemcc.edu,2026-11-02
+NJCAA,Sandhills Community College,406136554747070110,https://sccflyersathletics.com/,https://sccflyersathletics.com/,other,,2026-11-02
+NJCAA,Scottsdale Community College,408009948656567554,https://www.gochokes.com/landing/index,https://www.gochokes.com/landing/index,blocked,scottsdalecc.edu,2026-11-02
+NJCAA,Shorter College,418346471713146872,https://shortercollege.edu/student-life/athletics/,https://shortercollege.edu/student-life/athletics/,wordpress,shortercollege.edu,2026-11-02
+NJCAA,Snead State Community College,412688791489217948,https://www.sneadathletics.com/landing/index,https://www.sneadathletics.com/landing/index,blocked,snead.edu,2026-11-02
+NJCAA,South Arkansas College,418346475253139060,https://www.southarkstars.com/,https://www.southarkstars.com/,other,,2026-11-02
+NJCAA,South Mountain Community College,406138110900963056,https://athletics.southmountaincc.edu/index,https://athletics.southmountaincc.edu/landing/index,presto,southmountaincc.edu,2026-11-02
+NJCAA,South Suburban College,407481170477975179,https://www.ssc.edu/athletics,https://www.ssc.edu/athletics,wordpress,ssc.edu,2026-11-02
+NJCAA,Southeast Arkansas College,418346465849509437,https://searksharks.com/landing/index,https://searksharks.com/landing/index,blocked,,2026-11-02
+NJCAA,Southeastern Community College - Iowa,413975926926214833,https://sccblackhawks.com/,https://sccblackhawks.com/,blocked,scciowa.edu,2026-11-02
+NJCAA,Southeastern Illinois College,407495526188058584,https://www.sicfalcons.com/,https://www.sicfalcons.com/,blocked,sic.edu,2026-11-02
+NJCAA,Southern Arkansas University Tech,418346471755088897,https://sautrockets.com/,https://www.sautrockets.com/,presto,sautech.edu,2026-11-02
+NJCAA,Southwestern Community College (IA),406139994906822424,https://www.southwesternspartans.com/,https://www.southwesternspartans.com/,blocked,swcciowa.edu,2026-11-02
+NJCAA,Southwestern Oregon Community College,412549816564843662,https://swoccathletics.com/,https://swoccathletics.com/,sidearm,socc.edu,2026-11-02
+NJCAA,Spoon River College,407495524132849582,https://www.src.edu/snapper-athletics,https://www.src.edu/snapper-athletics,other,,2026-11-02
+NJCAA,St. Louis Community College,408042225730062151,https://www.archersathletics.com/landing/index,https://www.archersathletics.com/landing/index,blocked,stlcc.edu,2026-11-02
+NJCAA,Sussex County Community College,418346469104289370,https://sussexskylanders.com/landing/index,https://sussexskylanders.com/landing/index,blocked,sussex.edu,2026-11-02
+NJCAA,USC Salkehatchie,413979680308201087,,,no_url,mailbox.sc.edu,2026-11-02
+NJCAA,Umpqua Community College,406143911472399715,https://uccriverhawks.com/landing/index,https://uccriverhawks.com/landing/index,blocked,umpqua.edu,2026-11-02
+NJCAA,"Union College of Union County, New Jersey",418346469322393205,https://www.unionowls.com/landing/index,https://www.unionowls.com/landing/index,blocked,ucc.edu,2026-11-02
+NJCAA,United Tribes Technical College,413266758930007669,https://www.uttcthunderbirds.com/landing/index,https://www.uttcthunderbirds.com/landing/index,blocked,uttc.edu,2026-11-02
+NJCAA,University of Arkansas Cossatot,408029489574970672,https://uacossatotcolts.com/landing/index,https://uacossatotcolts.com/landing/index,blocked,cccua.edu,2026-11-02
+NJCAA,WVU Potomac State College,407475914931177144,https://www.potomacstatesports.com/landing/index,https://www.potomacstatesports.com/landing/index,blocked,,2026-11-02
+NJCAA,Wake Technical Community College,406145562618889390,https://waketechsports.com/landing/index,https://waketechsports.com/landing/index,blocked,waketech.edu,2026-11-02
+NJCAA,Wallace Community College - Selma,413271940271179244,https://www.wccs.edu/news-events/athletics-1,https://www.wccs.edu/news-events/athletics-1,other,,2026-11-02
+NJCAA,Waubonsee Community College,407481168372434487,https://www.gochiefs.com/landing/index,https://www.gochiefs.com/landing/index,blocked,waubonsee.edu,2026-11-02
+NJCAA,Westchester Community College,407978539250353420,https://www.sunywcc.edu/about/offices-resources/student-affairs/student-life/athletics/,https://www.sunywcc.edu/about/offices-resources/student-affairs/student-life/athletics/,wordpress,sunywcc.edu,2026-11-02
+NJCAA,Western Iowa Tech Community College,406147232354534626,https://witcomets.com/landing/index,https://witcomets.com/landing/index,blocked,,2026-11-02
+NJCAA,Westmoreland County Community College,406148066366719595,https://athletics.westmoreland.edu/landing/index,https://athletics.westmoreland.edu/landing/index,blocked,westmoreland.edu,2026-11-02

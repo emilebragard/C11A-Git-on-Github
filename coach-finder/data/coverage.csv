@@ -1,0 +1,4 @@
+run_id,association,division,sport,teams,with_email,tier_A,tier_B,tier_C,tier_D,name_only,nothing,pct_email,doc_link,last_run
+ncaa-d1-mens-water-polo,NCAA,D1,mens-water-polo,30,8,3,4,1,0,22,0,27%,,2026-11-02
+njcaa-d2-mens-basketball,NJCAA,D2,mens-basketball,152,134,96,6,17,15,14,4,88%,,2026-11-02
+njcaa-d2-womens-basketball,NJCAA,D2,womens-basketball,153,130,80,5,23,22,19,4,85%,,2026-11-02
