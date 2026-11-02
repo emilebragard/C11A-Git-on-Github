@@ -1,0 +1,172 @@
+school,region,mbkb_id,wbkb_id,tenant,athletics_url,match
+Chandler-Gilbert Community College,Region I,418346465874675276,413844374183478289,405079646837671440,https://cgccathletics.com/landing/index,exact
+Gateway Community College-AZ,Region I,422454575073593081,422454718636229674,405079647273879168,https://gogeckos.com/landing/index,exact
+Glendale Community College,Region I,408009949487039772,408009960350287399,405079646846060049,https://www.gauchoathletics.com/landing/index,exact
+Mesa Community College,Region I,418346458702414930,408009960694220340,405079645948478775,https://mesatbirdsports.com/landing/index,exact
+Phoenix College,Region I,408009949101163791,413844371348129702,405079646846060050,https://pcbearsathletics.com/landing/index,exact
+Pima Community College,Region I,418346458912130160,418346458928907379,405079645956867385,https://pimaaztecs.com/landing/index,exact
+Scottsdale Community College,Region I,408009948656567554,413844373881488386,405079646854448659,https://www.gochokes.com/landing/index,exact
+South Mountain Community College,Region I,406138110900963056,406138111714658050,405079646854448660,https://athletics.southmountaincc.edu/index,exact
+Arkansas State University Mid-South,Region II,408020167264568369,407521169290298949,405079646820894220,https://www.asumidsouthsports.com/landing/index,exact
+National Park College,Region II,413978404182820263,413979888194684341,405079647978522553,https://athletics.np.edu/,exact
+North Arkansas College,Region II,412712351666537666,412712346792756405,405079646812505610,https://www.northark.edu/athletics,exact
+Phillips Community College of the University of Arkansas,Region II,418346465841120820,418346465841120823,405079646829282830,https://www.pccua.edu/athletics,exact
+Shorter College,Region II,418346471713146872,,405079647986911164,https://shortercollege.edu/student-life/athletics/,exact
+South Arkansas College,Region II,418346475253139060,418346475269916279,417488958834870026,https://www.southarkstars.com/,exact
+Southeast Arkansas College,Region II,418346465849509437,418346465857898048,405079646837671439,https://searksharks.com/landing/index,exact
+Southern Arkansas University Tech,Region II,418346471755088897,408020248491460140,405079647986911166,https://sautrockets.com/,exact
+University of Arkansas Cossatot,Region II,408029489574970672,408029491605013846,405079647970133942,https://uacossatotcolts.com/landing/index,exact
+Erie Community College,Region III,407509474857714689,,405079647164827234,https://athletics.ecc.edu/landing/index,exact
+Jamestown Community College,Region III,407765175651796725,407509479865713816,405079647181604453,https://jccjayhawks.com/landing/index,exact
+Monroe Community College,Region III,407765176540989199,407765188561863688,405079647181604454,https://mcctribunes.com/landing/index,exact
+SUNY Niagara,Region III,414004219931002311,414003748340238299,414002991469692472,,none
+Black Hawk College,Region IV,407481170704467606,407481191239779623,405079646871225880,https://www.bhc.edu/athletics/,exact
+Blackhawk Technical College,Region IV,461526842055067360,407481189570446562,405079647273879167,https://athletics.blackhawk.edu/,exact
+Bryant & Stratton College - Wisconsin,Region IV,413978746026984783,413978763122968392,413968299743774249,https://wisconsin.bscbobcats.com/,exact
+Carl Sandburg College,Region IV,407481167474853391,407481188253435040,405079646879614489,https://sandburgchargers.com/landing/index,exact
+College of DuPage,Region IV,407481172357023434,407481192934278484,405079647273879170,https://gochapsgo.com/,exact
+College of Lake County,Region IV,407481168112387628,407481188916135105,405079646879614490,https://clclancers.com/,exact
+Elgin Community College,Region IV,406085939765445994,406085946174342580,405079646888003100,https://elginspartans.com/landing/index,exact
+Harper College,Region IV,406087924837254567,406087925776778678,405079647273879171,https://www.harperhawks.net/,exact
+Illinois Valley Community College,Region IV,407481168666035778,407481189360731351,405079646904780319,https://ivcceagles.com/landing/index,exact
+Kankakee Community College,Region IV,,414005672535918360,414002991553578555,https://athletics.kcc.edu/,exact
+Kishwaukee College,Region IV,407481170008213109,407481190501582090,405079646082696552,https://www.kishkougars.com/landing/index,exact
+Madison College,Region IV,406053947611023081,406053971115902285,405079647382931153,https://www.madisoncollegeathletics.com/,exact
+McHenry County College,Region IV,407481167902672417,407481188689642678,405079646921557539,https://www.mccscots.com/landing/index,exact
+Milwaukee Area Technical College,Region IV,407481169504896607,407481190040208628,405079647391319763,https://www.matcstormers.com/,exact
+Moraine Valley Community College,Region IV,407485098343008101,407481187590734975,405079646946723364,https://mvcyclones.com/landing/index,exact
+Morton College,Region IV,407485090583545566,407485112410702920,405079646955111973,https://gomcpanthers.com/,exact
+Oakton College,Region IV,406054708575209308,406054720109544460,405079646955111974,https://oakton-owls.com/,exact
+Prairie State College,Region IV,407481169790109290,407481190283478271,405079646971889193,https://prairiestateathletics.com/,exact
+Rock Valley College,Region IV,407481170251482752,407481187120972905,405079647282267781,https://rvcsports.com/,exact
+South Suburban College,Region IV,407481170477975179,407481190979732764,405079646099473773,https://www.ssc.edu/athletics,exact
+Waubonsee Community College,Region IV,407481168372434487,,405079646988666413,https://www.gochiefs.com/landing/index,exact
+Allen Community College,Region VI,406050672539076557,406050680315315391,405079646124639611,https://www.allenreddevils.com/landing/index,exact
+Fort Scott Community College,Region VI,412712418909619539,407466022933628188,405079647022220857,https://www.fsgreyhounds.com/,exact
+Highland Community College-Kansas,Region VI,407759808310019957,407759866552125350,405079647022220856,https://scottieathletics.com/,exact
+Johnson County,Region VI,407494968177853694,418346465807566364,405079646812505609,,none
+Kansas City Kansas Community College,Region VI,407759807890589544,413978819024651506,405079647919802267,https://bluedevils.kckcc.edu/landing/index,exact
+Labette Community College,Region VI,412616908425135483,412616909582763405,405079647877859190,https://www.labette.edu/athletics/index.html,exact
+Neosho County,Region VI,407759807496324955,407483054894875762,405079648020465637,,none
+Florida Gateway College,Region VIII,418346465958561428,,405079646862837270,https://fgcwolves.com/landing/index,exact
+Florida State College at Jacksonville,Region VIII,412577824608618482,412577826185675789,405079645990421832,https://fscjmantarays.com/landing/index,exact
+Hillsborough Community College,Region VIII,406101307401700851,,405079645990421834,https://hcflhawks.com/landing/index,exact
+Palm Beach State College,Region VIII,412663708460779327,412663708855043912,405079645998810448,https://www.pbscpanthers.com/landing/index,exact
+Pasco-Hernando State College,Region VIII,406130122345678644,,405079646862837271,https://bobcats.phsc.edu/,exact
+Brunswick Community College,Region X,,413979683957245693,405079646426629560,https://www.gobccsports.com/landing/index,exact
+Bryant & Stratton College - Virginia,Region X,407475917405816553,407475937555252314,405079647265490558,https://virginia.bscbobcats.com/landing/index,exact
+Cape Fear Community College,Region X,,406054402768503916,405079646435018169,https://www.goseadevils.com/landing/index,exact
+Catawba Valley Community College,Region X,412704252054472642,413979681725875891,405079647349376706,https://www.gocvcc.com/landing/index,exact
+Central Carolina Community College,Region X,418346470656182105,,405079647349376707,https://www.cccc.edu/athletics/,exact
+Cleveland Community College,Region X,418346471830586378,413979679234459222,405079647986911167,https://cccyetis.com/,exact
+Davidson-Davie Community College,Region X,413979671365944665,,405079647986911168,https://www.davidsondavie.edu/athletics,exact
+Denmark Technical College,Region X,,475917922292729593,405079646527292883,https://www.denmarktech.edu/athletics,exact
+Fayetteville Technical Community College,Region X,418346467619505409,413979680660522638,405079647198381673,https://athletics.faytechcc.edu/,exact
+Forsyth Technical Community College,Region X,406090880529728902,,405079647206770282,https://www.forsythtechtrailblazers.com/landing/index,exact
+Guilford Technical Community College,Region X,413979666718655707,413979679947490928,405079646435018170,https://gtcctitans.com/landing/index,exact
+Louisburg College,Region X,418346464574441466,412624916777534842,405079646443406780,https://www.lchurricanes.com/landing/index,exact
+Pitt Community College,Region X,418346464691880981,,405079646443406781,https://www.pccbulldogathletics.com/landing/index,exact
+Richard Bland College,Region X,,406135109364745778,405079647995299782,https://gorbcathletics.com/,exact
+Sandhills Community College,Region X,,406136554747070110,405079647357765317,https://sccflyersathletics.com/,exact
+USC Salkehatchie,Region X,,413979680308201087,405079646535681493,,none
+Wake Technical Community College,Region X,,406145562618889390,405079646460184001,https://waketechsports.com/landing/index,exact
+Central Community College Columbus,Region XI,407494966298805455,407759868447950793,405079647139661403,https://www.cccraiders.com/landing/index,exact
+Des Moines Area Community College,Region XI,406159402798680036,407759871904056341,405079646988666417,https://www.dmaccbears.com/landing/index,exact
+Ellsworth Community College,Region XI,406086495527503522,407481188463150251,405079646107862388,https://www.eccathletics.com/landing/index,exact
+Iowa Central Community College,Region XI,407421023697241126,407421050037470580,405079646116250999,https://www.ictritons.com/landing/index,exact
+Iowa Lakes Community College,Region XI,406105370944078910,406105378762261704,405079646116251000,https://www.iowalakesathletics.com/landing/index,exact
+Iowa Western Community College,Region XI,406106090745365753,406106102170650085,405079646124639609,https://www.goreivers.com/landing/index,exact
+Kirkwood Community College,Region XI,406108233229404068,406108234177316790,405079646997055026,https://www.kirkwoodeagles.com/landing/index,exact
+Marshalltown Community College,Region XI,,407759869714630632,405079646124639610,https://www.mccathletics.com/landing/index,exact
+North Iowa Area Community College,Region XI,407481166954759673,407481187808838794,405079647005443635,https://www.niacctrojans.com/landing/index,exact
+Northeast Community College,Region XI,407759812344940497,407759871065195523,405079646393075120,https://www.northeasthawks.com/landing/index,exact
+Southeastern Community College - Iowa,Region XI,,413975926926214833,413968300700075588,https://sccblackhawks.com/,exact
+Southwestern Community College (IA),Region XI,406139994906822424,406140000443303801,405079647005443637,https://www.southwesternspartans.com/,exact
+Western Iowa Tech Community College,Region XI,406147232354534626,,405079647013832246,https://witcomets.com/landing/index,exact
+Alpena Community College,Region XII,407959381607449824,407959389425632644,405079647055775296,https://acclumberjacks.com/landing/index,exact
+Bay College,Region XII,407485095440549665,407485110170944544,405079647055775297,https://www.baycollegenorse.com/landing/index,exact
+Bryant & Stratton College - Ohio,Region XII,407981915748960123,477540448252986850,405079647231936112,https://ohio.bscbobcats.com/landing/index,exact
+Clark State College,Region XII,413979277864732101,418346474489775549,413968300473583156,https://www.clarkstateeagles.com/,exact
+Cuyahoga Community College,Region XII,407765182354294668,407765194224174179,405079647240324724,https://athletics.tri-c.edu/,exact
+Delta College,Region XII,412709723800863915,412709719145186462,405079647064163906,https://www.deltacollegeducks.com/landing/index,exact
+Edison State Community College,Region XII,407765180181645140,407485108711327740,405079647248713333,https://athletics.edisonohio.edu/landing/index,exact
+Glen Oaks Community College,Region XII,406098734783399262,406098735781643632,405079647064163908,https://www.glenoaksathletics.com/landing/index,exact
+Grand Rapids Community College,Region XII,407485096891778881,407485111714448443,405079647064163910,https://www.grccraiders.com/,exact
+Henry Ford College,Region XII,412592513673594699,412592514915108710,405079647072552519,https://www.hfcc.edu/athletics,exact
+Jackson College,Region XII,412709681086071866,412709676287788077,405079647080941128,https://www.jacksoncollegejets.com/landing/index,exact
+Kalamazoo Valley Community College,Region XII,412709743790916845,412709739277845728,405079648028854248,https://athletics.kvcc.edu/landing/index,exact
+Kellogg Community College,Region XII,418346467049080786,418346467049080789,405079647089329737,https://www.kelloggbruins.com/landing/index,exact
+Kirtland Community College,Region XII,406108578319960009,406108579620194279,405079647097718346,https://kirtlandfirebirds.com/landing/index,exact
+Lake Michigan College,Region XII,412619785231140183,407485109105591303,405079647097718347,https://redhawks.lakemichigancollege.edu/landing/index,exact
+Lakeland Community College,Region XII,406108718451655686,406108718829143052,405079647248713334,https://athletics.lakelandcc.edu/landing/index,exact
+Lansing Community College,Region XII,412621872115484145,412621873868703250,405079647106106956,https://www.lccstars.com/landing/index,exact
+Macomb Community College,Region XII,407765177346295584,407765189383947285,405079647106106957,https://macombmonarchs.com/,exact
+Marian University Plymouth,Region XII,407754194041177230,418346466512209700,405079646988666415,https://marianplymouthchargers.com/landing/index,exact
+Mid Michigan College,Region XII,406113127445300886,406113128258995874,405079648037242857,https://midmichlakers.com/landing/index,exact
+Dakota College at Bottineau,Region XIII,413266757990483532,418346467661448461,405079647223547502,https://dcbjacks.com/landing/index,exact
+Dakota County Technical College,Region XIII,406735951415477815,,405079647131272790,https://www.goblueknights.com/,exact
+Gogebic Community College,Region XIII,406098929071949181,406098930078582147,405079647064163909,https://gogebicsamsons.com/landing/index,exact
+Rochester Community and Technical College,Region XIII,,408019367083639869,405079647307433628,https://www.rctcyellowjackets.com/landing/index,exact
+United Tribes Technical College,Region XIII,413266758930007669,418346467669837075,405079647223547503,https://www.uttcthunderbirds.com/landing/index,exact
+County College of Morris,Region XIX,406156326083757334,406156327560152366,405079647156438622,https://ccmathletics.com/landing/index,exact
+Delaware Technical Community College,Region XIX,407978536624719070,418346465941784197,405079646862837269,https://www.dtcc.edu/athletics,exact
+Essex County College,Region XIX,406088946628429678,407475936296961090,405079647156438623,https://www.essexwolverines.com/landing/index,exact
+Harcum College,Region XIX,407475916969608926,407475940113777816,405079647257101945,https://www.harcum.edu/s/1044/bp20/interior.aspx?sid=1044&gid=1&pgid=1135,exact
+Harrisburg Area Community College,Region XIX,412591329806124819,430419295067964499,405079648003688396,https://hacchawks.com/landing/index,exact
+Mercer County Community College,Region XIX,418346467351069800,413844419893004212,405079647156438624,https://www.mccc.edu/athletics_home.shtml,exact
+Middlesex College,Region XIX,418346472501675129,418346472518452348,405079648012077011,https://middlesexcoltsathletics.com/landing/index,exact
+Raritan Valley Community College,Region XIX,407470760240613173,418346469037180491,405079647315822244,https://www.rvccathletics.com/landing/index,exact
+Salem Community College,Region XIX,,418346467393012861,405079647164827233,https://sccmightyoaks.com/landing/index,exact
+Sussex County Community College,Region XIX,,418346469104289370,405079647315822245,https://sussexskylanders.com/landing/index,exact
+"Union College of Union County, New Jersey",Region XIX,,418346469322393205,405079647315822246,https://www.unionowls.com/landing/index,exact
+Orange County Community College,Region XV,412662136796349961,407509480729740475,405079647189993063,https://sunyorangecolts.com/landing/index,exact
+Rockland Community College,Region XV,407981824002753801,412677558589458303,405079647340988092,https://rcchawks.com/landing/index,exact
+Westchester Community College,Region XV,407978539250353420,413279497895282166,405079648045631468,https://www.sunywcc.edu/about/offices-resources/student-affairs/student-life/athletics/,exact
+Jefferson College,Region XVI,406053315831400360,406053391689582482,405079648087574525,https://athletics.jeffco.edu/,exact
+Metropolitan Community College,Region XVI,412633030205638099,412633031564592622,405079647131272791,https://mcckcathletics.com/landing/index,exact
+North Central Missouri College,Region XVI,407494967791977715,407759866132694937,405079647131272792,https://ncmcpirates.com/landing/index,exact
+St. Louis Community College,Region XVI,408042225730062151,412681626451969344,405079647131272793,https://www.archersathletics.com/landing/index,exact
+Big Bend Community College,Region XVIII,407294361361975291,412529481186542594,405079646762173952,https://bbccvikings.com/,exact
+Clackamas Community College,Region XVIII,407821833199421156,422455707200128219,405079648112739341,https://www.clackamascougars.com/,exact
+Pacific Northwest Christian College,Region XVIII,413922194771412560,413922206129587269,413919748049340163,https://pnwccgladiators.com/,exact
+Southwestern Oregon Community College,Region XVIII,412549816564843662,413279435467261764,405079648154682403,https://swoccathletics.com/,exact
+Umpqua Community College,Region XVIII,406143911472399715,406143927897294388,405079648163071015,https://uccriverhawks.com/landing/index,exact
+Anne Arundel Community College,Region XX,406061562420266735,406162363692090724,405079647282267783,https://aaccathletics.com/landing/index,exact
+CCBC Catonsville,Region XX,414004226826437877,414004241196123619,414002991402583604,,none
+CCBC Dundalk,Region XX,414004227019375872,,414002991436138038,,none
+CCBC Essex,Region XX,,413978119716734227,413968300423251501,,none
+Cecil College,Region XX,407475922648696666,407475945675425023,405079647030609467,https://cecilathletics.com/landing/index,exact
+Chesapeake College,Region XX,407475923026184037,407475946052912394,405079646233691536,https://www.letsgoskipjacks.com/landing/index,exact
+College of Southern Maryland,Region XX,407475921835001668,407475944819786985,405079647038998076,https://athletics.csmd.edu/landing/index,exact
+Community College of Beaver County,Region XX,407475916122359505,407475939677570189,405079647257101944,https://ccbctitans.com/landing/index,exact
+Frederick Community College,Region XX,406093009071900156,406093009776543237,405079646250468754,https://fccathletics.com/landing/index,exact
+Garrett College,Region XX,406094415497529064,406094430328588191,405079646242080145,https://www.garrettlakers.com/landing/index,exact
+Hagerstown Community College,Region XX,,407475942621971638,405079646250468755,https://athletics.hagerstowncc.edu/landing/index,exact
+Howard Community College,Region XX,407418157888701861,407418179170600611,405079647047386685,https://howardccdragons.com/index.aspx,exact
+Montgomery College,Region XX,407475922212489039,407475945255994612,405079646258857365,https://www.mcraptors.com/,exact
+Penn Highlands Community College,Region XX,407475914553689773,407475937957905509,405079648171459636,https://www.pennhighlands.edu/student-life/athletics/,exact
+Prince George's Community College,Region XX,407475920526378791,407475943519552716,405079647047386686,https://www.pgccowls.com/landing/index,exact
+WVU Potomac State College,Region XX,407475914931177144,407475938343781488,405079646770562561,https://www.potomacstatesports.com/landing/index,exact
+Westmoreland County Community College,Region XX,406148066366719595,407475939207808130,405079647357765323,https://athletics.westmoreland.edu/landing/index,exact
+Massasoit Community College,Region XXI,,412629446407751586,405079647047386687,https://massasoitccwarriors.com/landing/index,exact
+Bevill State Community College,Region XXII,413271939541370322,,405079645847815457,https://www.athletics.bscc.edu/,exact
+Chattahoochee Valley Community College,Region XXII,413271942049564214,418346457695782883,405079645856204068,https://cvpirates.com/landing/index,exact
+Coastal Alabama Community College - North,Region XXII,418346475387356818,418346475395745429,417493488154707852,https://coastalcoyotesnorth.com/,exact
+Enterprise State Community College,Region XXII,406088009142765058,406088015845263075,405079645872981287,https://www.escc.edu/athletics,exact
+Lurleen B Wallace Community College,Region XXII,406110427487929605,413922000096986252,405079645881369898,https://lbwsaints.com/landing/index,exact
+Marion Military Institute,Region XXII,407479535244674355,,405079645889758507,https://www.mmitigers.com/landing/index,exact
+Reid State Community College,Region XXII,406134425802245284,406134432966116645,405079647953356720,https://rslions.com/landing/index,exact
+Snead State Community College,Region XXII,412688791489217948,412688798552426025,405079645898147118,https://www.sneadathletics.com/landing/index,exact
+Wallace Community College - Selma,Region XXII,413271940271179244,413922000382198939,405079645914924337,https://www.wccs.edu/news-events/athletics-1,exact
+Danville Area Community College,Region XXIV,406069673583445053,406069699437135279,405079646879614491,https://danvillejaguars.com/,exact
+Frontier Community College,Region XXIV,412581052645639279,,405079646065919333,https://www.fccbobcats.com/,exact
+Illinois Central College,Region XXIV,407419294813521469,407419320407164811,405079646896391710,https://illinoiscentralcougars.com/,exact
+John Wood Community College,Region XXIV,407495523310765976,407495551521654168,405079646904780320,https://www.johnwoodblazers.com/landing/index,exact
+Kaskaskia College,Region XXIV,,407495554373780957,405079646074307943,https://www.kaskaskiaathletics.com/landing/index,exact
+Lake Land College,Region XXIV,,412618003222366028,405079646082696553,https://lakelandcollegeathletics.com/landing/index,exact
+Lewis and Clark Community College,Region XXIV,407495525751850957,407495553912407506,405079646913168929,https://www.trailblazers.lc.edu/landing/index,exact
+Lincoln Land Community College,Region XXIV,407495525315643330,407495553509754311,405079646913168930,https://lincolnlandloggers.com/,exact
+Parkland College,Region XXIV,407495527052085230,407495555170698730,405079646963500584,https://athletics.parkland.edu/,exact
+Rend Lake College,Region XXIV,407495526624266211,,405079646971889194,https://rendlakewarriors.com/landing/index,exact
+Southeastern Illinois College,Region XXIV,407495526188058584,,405079646099473775,https://www.sicfalcons.com/,exact
+Spoon River College,Region XXIV,407495524132849582,407495551949473187,405079646980277804,https://www.src.edu/snapper-athletics,exact

@@ -1,0 +1,1073 @@
+[
+ {
+  "team_id": "413844374183478289",
+  "school": "Chandler-Gilbert Community College",
+  "region": "Region I",
+  "sport": "wbkb",
+  "tenant": "405079646837671440"
+ },
+ {
+  "team_id": "422454718636229674",
+  "school": "Gateway Community College-AZ",
+  "region": "Region I",
+  "sport": "wbkb",
+  "tenant": "405079647273879168"
+ },
+ {
+  "team_id": "408009960350287399",
+  "school": "Glendale Community College",
+  "region": "Region I",
+  "sport": "wbkb",
+  "tenant": "405079646846060049"
+ },
+ {
+  "team_id": "408009960694220340",
+  "school": "Mesa Community College",
+  "region": "Region I",
+  "sport": "wbkb",
+  "tenant": "405079645948478775"
+ },
+ {
+  "team_id": "413844371348129702",
+  "school": "Phoenix College",
+  "region": "Region I",
+  "sport": "wbkb",
+  "tenant": "405079646846060050"
+ },
+ {
+  "team_id": "418346458928907379",
+  "school": "Pima Community College",
+  "region": "Region I",
+  "sport": "wbkb",
+  "tenant": "405079645956867385"
+ },
+ {
+  "team_id": "413844373881488386",
+  "school": "Scottsdale Community College",
+  "region": "Region I",
+  "sport": "wbkb",
+  "tenant": "405079646854448659"
+ },
+ {
+  "team_id": "406138111714658050",
+  "school": "South Mountain Community College",
+  "region": "Region I",
+  "sport": "wbkb",
+  "tenant": "405079646854448660"
+ },
+ {
+  "team_id": "407521169290298949",
+  "school": "Arkansas State University Mid-South",
+  "region": "Region II",
+  "sport": "wbkb",
+  "tenant": "405079646820894220"
+ },
+ {
+  "team_id": "413979888194684341",
+  "school": "National Park College",
+  "region": "Region II",
+  "sport": "wbkb",
+  "tenant": "405079647978522553"
+ },
+ {
+  "team_id": "412712346792756405",
+  "school": "North Arkansas College",
+  "region": "Region II",
+  "sport": "wbkb",
+  "tenant": "405079646812505610"
+ },
+ {
+  "team_id": "418346465841120823",
+  "school": "Phillips Community College of the University of Arkansas",
+  "region": "Region II",
+  "sport": "wbkb",
+  "tenant": "405079646829282830"
+ },
+ {
+  "team_id": "418346475269916279",
+  "school": "South Arkansas College",
+  "region": "Region II",
+  "sport": "wbkb",
+  "tenant": "417488958834870026"
+ },
+ {
+  "team_id": "418346465857898048",
+  "school": "Southeast Arkansas College",
+  "region": "Region II",
+  "sport": "wbkb",
+  "tenant": "405079646837671439"
+ },
+ {
+  "team_id": "408020248491460140",
+  "school": "Southern Arkansas University Tech",
+  "region": "Region II",
+  "sport": "wbkb",
+  "tenant": "405079647986911166"
+ },
+ {
+  "team_id": "408029491605013846",
+  "school": "University of Arkansas Cossatot",
+  "region": "Region II",
+  "sport": "wbkb",
+  "tenant": "405079647970133942"
+ },
+ {
+  "team_id": "407509479865713816",
+  "school": "Jamestown Community College",
+  "region": "Region III",
+  "sport": "wbkb",
+  "tenant": "405079647181604453"
+ },
+ {
+  "team_id": "407765188561863688",
+  "school": "Monroe Community College",
+  "region": "Region III",
+  "sport": "wbkb",
+  "tenant": "405079647181604454"
+ },
+ {
+  "team_id": "414003748340238299",
+  "school": "SUNY Niagara",
+  "region": "Region III",
+  "sport": "wbkb",
+  "tenant": "414002991469692472"
+ },
+ {
+  "team_id": "407481191239779623",
+  "school": "Black Hawk College",
+  "region": "Region IV",
+  "sport": "wbkb",
+  "tenant": "405079646871225880"
+ },
+ {
+  "team_id": "407481189570446562",
+  "school": "Blackhawk Technical College",
+  "region": "Region IV",
+  "sport": "wbkb",
+  "tenant": "405079647273879167"
+ },
+ {
+  "team_id": "413978763122968392",
+  "school": "Bryant & Stratton College - Wisconsin",
+  "region": "Region IV",
+  "sport": "wbkb",
+  "tenant": "413968299743774249"
+ },
+ {
+  "team_id": "407481188253435040",
+  "school": "Carl Sandburg College",
+  "region": "Region IV",
+  "sport": "wbkb",
+  "tenant": "405079646879614489"
+ },
+ {
+  "team_id": "407481192934278484",
+  "school": "College of DuPage",
+  "region": "Region IV",
+  "sport": "wbkb",
+  "tenant": "405079647273879170"
+ },
+ {
+  "team_id": "407481188916135105",
+  "school": "College of Lake County",
+  "region": "Region IV",
+  "sport": "wbkb",
+  "tenant": "405079646879614490"
+ },
+ {
+  "team_id": "406085946174342580",
+  "school": "Elgin Community College",
+  "region": "Region IV",
+  "sport": "wbkb",
+  "tenant": "405079646888003100"
+ },
+ {
+  "team_id": "406087925776778678",
+  "school": "Harper College",
+  "region": "Region IV",
+  "sport": "wbkb",
+  "tenant": "405079647273879171"
+ },
+ {
+  "team_id": "407481189360731351",
+  "school": "Illinois Valley Community College",
+  "region": "Region IV",
+  "sport": "wbkb",
+  "tenant": "405079646904780319"
+ },
+ {
+  "team_id": "414005672535918360",
+  "school": "Kankakee Community College",
+  "region": "Region IV",
+  "sport": "wbkb",
+  "tenant": "414002991553578555"
+ },
+ {
+  "team_id": "407481190501582090",
+  "school": "Kishwaukee College",
+  "region": "Region IV",
+  "sport": "wbkb",
+  "tenant": "405079646082696552"
+ },
+ {
+  "team_id": "406053971115902285",
+  "school": "Madison College",
+  "region": "Region IV",
+  "sport": "wbkb",
+  "tenant": "405079647382931153"
+ },
+ {
+  "team_id": "407481188689642678",
+  "school": "McHenry County College",
+  "region": "Region IV",
+  "sport": "wbkb",
+  "tenant": "405079646921557539"
+ },
+ {
+  "team_id": "407481190040208628",
+  "school": "Milwaukee Area Technical College",
+  "region": "Region IV",
+  "sport": "wbkb",
+  "tenant": "405079647391319763"
+ },
+ {
+  "team_id": "407481187590734975",
+  "school": "Moraine Valley Community College",
+  "region": "Region IV",
+  "sport": "wbkb",
+  "tenant": "405079646946723364"
+ },
+ {
+  "team_id": "407485112410702920",
+  "school": "Morton College",
+  "region": "Region IV",
+  "sport": "wbkb",
+  "tenant": "405079646955111973"
+ },
+ {
+  "team_id": "406054720109544460",
+  "school": "Oakton College",
+  "region": "Region IV",
+  "sport": "wbkb",
+  "tenant": "405079646955111974"
+ },
+ {
+  "team_id": "407481190283478271",
+  "school": "Prairie State College",
+  "region": "Region IV",
+  "sport": "wbkb",
+  "tenant": "405079646971889193"
+ },
+ {
+  "team_id": "407481187120972905",
+  "school": "Rock Valley College",
+  "region": "Region IV",
+  "sport": "wbkb",
+  "tenant": "405079647282267781"
+ },
+ {
+  "team_id": "407481190979732764",
+  "school": "South Suburban College",
+  "region": "Region IV",
+  "sport": "wbkb",
+  "tenant": "405079646099473773"
+ },
+ {
+  "team_id": "406050680315315391",
+  "school": "Allen Community College",
+  "region": "Region VI",
+  "sport": "wbkb",
+  "tenant": "405079646124639611"
+ },
+ {
+  "team_id": "407466022933628188",
+  "school": "Fort Scott Community College",
+  "region": "Region VI",
+  "sport": "wbkb",
+  "tenant": "405079647022220857"
+ },
+ {
+  "team_id": "407759866552125350",
+  "school": "Highland Community College-Kansas",
+  "region": "Region VI",
+  "sport": "wbkb",
+  "tenant": "405079647022220856"
+ },
+ {
+  "team_id": "418346465807566364",
+  "school": "Johnson County",
+  "region": "Region VI",
+  "sport": "wbkb",
+  "tenant": "405079646812505609"
+ },
+ {
+  "team_id": "413978819024651506",
+  "school": "Kansas City Kansas Community College",
+  "region": "Region VI",
+  "sport": "wbkb",
+  "tenant": "405079647919802267"
+ },
+ {
+  "team_id": "412616909582763405",
+  "school": "Labette Community College",
+  "region": "Region VI",
+  "sport": "wbkb",
+  "tenant": "405079647877859190"
+ },
+ {
+  "team_id": "407483054894875762",
+  "school": "Neosho County",
+  "region": "Region VI",
+  "sport": "wbkb",
+  "tenant": "405079648020465637"
+ },
+ {
+  "team_id": "412577826185675789",
+  "school": "Florida State College at Jacksonville",
+  "region": "Region VIII",
+  "sport": "wbkb",
+  "tenant": "405079645990421832"
+ },
+ {
+  "team_id": "412663708855043912",
+  "school": "Palm Beach State College",
+  "region": "Region VIII",
+  "sport": "wbkb",
+  "tenant": "405079645998810448"
+ },
+ {
+  "team_id": "413979683957245693",
+  "school": "Brunswick Community College",
+  "region": "Region X",
+  "sport": "wbkb",
+  "tenant": "405079646426629560"
+ },
+ {
+  "team_id": "407475937555252314",
+  "school": "Bryant & Stratton College - Virginia",
+  "region": "Region X",
+  "sport": "wbkb",
+  "tenant": "405079647265490558"
+ },
+ {
+  "team_id": "406054402768503916",
+  "school": "Cape Fear Community College",
+  "region": "Region X",
+  "sport": "wbkb",
+  "tenant": "405079646435018169"
+ },
+ {
+  "team_id": "413979681725875891",
+  "school": "Catawba Valley Community College",
+  "region": "Region X",
+  "sport": "wbkb",
+  "tenant": "405079647349376706"
+ },
+ {
+  "team_id": "413979679234459222",
+  "school": "Cleveland Community College",
+  "region": "Region X",
+  "sport": "wbkb",
+  "tenant": "405079647986911167"
+ },
+ {
+  "team_id": "475917922292729593",
+  "school": "Denmark Technical College",
+  "region": "Region X",
+  "sport": "wbkb",
+  "tenant": "405079646527292883"
+ },
+ {
+  "team_id": "413979680660522638",
+  "school": "Fayetteville Technical Community College",
+  "region": "Region X",
+  "sport": "wbkb",
+  "tenant": "405079647198381673"
+ },
+ {
+  "team_id": "413979679947490928",
+  "school": "Guilford Technical Community College",
+  "region": "Region X",
+  "sport": "wbkb",
+  "tenant": "405079646435018170"
+ },
+ {
+  "team_id": "412624916777534842",
+  "school": "Louisburg College",
+  "region": "Region X",
+  "sport": "wbkb",
+  "tenant": "405079646443406780"
+ },
+ {
+  "team_id": "406135109364745778",
+  "school": "Richard Bland College",
+  "region": "Region X",
+  "sport": "wbkb",
+  "tenant": "405079647995299782"
+ },
+ {
+  "team_id": "406136554747070110",
+  "school": "Sandhills Community College",
+  "region": "Region X",
+  "sport": "wbkb",
+  "tenant": "405079647357765317"
+ },
+ {
+  "team_id": "413979680308201087",
+  "school": "USC Salkehatchie",
+  "region": "Region X",
+  "sport": "wbkb",
+  "tenant": "405079646535681493"
+ },
+ {
+  "team_id": "406145562618889390",
+  "school": "Wake Technical Community College",
+  "region": "Region X",
+  "sport": "wbkb",
+  "tenant": "405079646460184001"
+ },
+ {
+  "team_id": "407759868447950793",
+  "school": "Central Community College Columbus",
+  "region": "Region XI",
+  "sport": "wbkb",
+  "tenant": "405079647139661403"
+ },
+ {
+  "team_id": "407759871904056341",
+  "school": "Des Moines Area Community College",
+  "region": "Region XI",
+  "sport": "wbkb",
+  "tenant": "405079646988666417"
+ },
+ {
+  "team_id": "407481188463150251",
+  "school": "Ellsworth Community College",
+  "region": "Region XI",
+  "sport": "wbkb",
+  "tenant": "405079646107862388"
+ },
+ {
+  "team_id": "407421050037470580",
+  "school": "Iowa Central Community College",
+  "region": "Region XI",
+  "sport": "wbkb",
+  "tenant": "405079646116250999"
+ },
+ {
+  "team_id": "406105378762261704",
+  "school": "Iowa Lakes Community College",
+  "region": "Region XI",
+  "sport": "wbkb",
+  "tenant": "405079646116251000"
+ },
+ {
+  "team_id": "406106102170650085",
+  "school": "Iowa Western Community College",
+  "region": "Region XI",
+  "sport": "wbkb",
+  "tenant": "405079646124639609"
+ },
+ {
+  "team_id": "406108234177316790",
+  "school": "Kirkwood Community College",
+  "region": "Region XI",
+  "sport": "wbkb",
+  "tenant": "405079646997055026"
+ },
+ {
+  "team_id": "407759869714630632",
+  "school": "Marshalltown Community College",
+  "region": "Region XI",
+  "sport": "wbkb",
+  "tenant": "405079646124639610"
+ },
+ {
+  "team_id": "407481187808838794",
+  "school": "North Iowa Area Community College",
+  "region": "Region XI",
+  "sport": "wbkb",
+  "tenant": "405079647005443635"
+ },
+ {
+  "team_id": "407759871065195523",
+  "school": "Northeast Community College",
+  "region": "Region XI",
+  "sport": "wbkb",
+  "tenant": "405079646393075120"
+ },
+ {
+  "team_id": "413975926926214833",
+  "school": "Southeastern Community College - Iowa",
+  "region": "Region XI",
+  "sport": "wbkb",
+  "tenant": "413968300700075588"
+ },
+ {
+  "team_id": "406140000443303801",
+  "school": "Southwestern Community College (IA)",
+  "region": "Region XI",
+  "sport": "wbkb",
+  "tenant": "405079647005443637"
+ },
+ {
+  "team_id": "407959389425632644",
+  "school": "Alpena Community College",
+  "region": "Region XII",
+  "sport": "wbkb",
+  "tenant": "405079647055775296"
+ },
+ {
+  "team_id": "407485110170944544",
+  "school": "Bay College",
+  "region": "Region XII",
+  "sport": "wbkb",
+  "tenant": "405079647055775297"
+ },
+ {
+  "team_id": "477540448252986850",
+  "school": "Bryant & Stratton College - Ohio",
+  "region": "Region XII",
+  "sport": "wbkb",
+  "tenant": "405079647231936112"
+ },
+ {
+  "team_id": "418346474489775549",
+  "school": "Clark State College",
+  "region": "Region XII",
+  "sport": "wbkb",
+  "tenant": "413968300473583156"
+ },
+ {
+  "team_id": "407765194224174179",
+  "school": "Cuyahoga Community College",
+  "region": "Region XII",
+  "sport": "wbkb",
+  "tenant": "405079647240324724"
+ },
+ {
+  "team_id": "412709719145186462",
+  "school": "Delta College",
+  "region": "Region XII",
+  "sport": "wbkb",
+  "tenant": "405079647064163906"
+ },
+ {
+  "team_id": "407485108711327740",
+  "school": "Edison State Community College",
+  "region": "Region XII",
+  "sport": "wbkb",
+  "tenant": "405079647248713333"
+ },
+ {
+  "team_id": "406098735781643632",
+  "school": "Glen Oaks Community College",
+  "region": "Region XII",
+  "sport": "wbkb",
+  "tenant": "405079647064163908"
+ },
+ {
+  "team_id": "407485111714448443",
+  "school": "Grand Rapids Community College",
+  "region": "Region XII",
+  "sport": "wbkb",
+  "tenant": "405079647064163910"
+ },
+ {
+  "team_id": "412592514915108710",
+  "school": "Henry Ford College",
+  "region": "Region XII",
+  "sport": "wbkb",
+  "tenant": "405079647072552519"
+ },
+ {
+  "team_id": "412709676287788077",
+  "school": "Jackson College",
+  "region": "Region XII",
+  "sport": "wbkb",
+  "tenant": "405079647080941128"
+ },
+ {
+  "team_id": "412709739277845728",
+  "school": "Kalamazoo Valley Community College",
+  "region": "Region XII",
+  "sport": "wbkb",
+  "tenant": "405079648028854248"
+ },
+ {
+  "team_id": "418346467049080789",
+  "school": "Kellogg Community College",
+  "region": "Region XII",
+  "sport": "wbkb",
+  "tenant": "405079647089329737"
+ },
+ {
+  "team_id": "406108579620194279",
+  "school": "Kirtland Community College",
+  "region": "Region XII",
+  "sport": "wbkb",
+  "tenant": "405079647097718346"
+ },
+ {
+  "team_id": "407485109105591303",
+  "school": "Lake Michigan College",
+  "region": "Region XII",
+  "sport": "wbkb",
+  "tenant": "405079647097718347"
+ },
+ {
+  "team_id": "406108718829143052",
+  "school": "Lakeland Community College",
+  "region": "Region XII",
+  "sport": "wbkb",
+  "tenant": "405079647248713334"
+ },
+ {
+  "team_id": "412621873868703250",
+  "school": "Lansing Community College",
+  "region": "Region XII",
+  "sport": "wbkb",
+  "tenant": "405079647106106956"
+ },
+ {
+  "team_id": "407765189383947285",
+  "school": "Macomb Community College",
+  "region": "Region XII",
+  "sport": "wbkb",
+  "tenant": "405079647106106957"
+ },
+ {
+  "team_id": "418346466512209700",
+  "school": "Marian University Plymouth",
+  "region": "Region XII",
+  "sport": "wbkb",
+  "tenant": "405079646988666415"
+ },
+ {
+  "team_id": "406113128258995874",
+  "school": "Mid Michigan College",
+  "region": "Region XII",
+  "sport": "wbkb",
+  "tenant": "405079648037242857"
+ },
+ {
+  "team_id": "418346467661448461",
+  "school": "Dakota College at Bottineau",
+  "region": "Region XIII",
+  "sport": "wbkb",
+  "tenant": "405079647223547502"
+ },
+ {
+  "team_id": "406098930078582147",
+  "school": "Gogebic Community College",
+  "region": "Region XIII",
+  "sport": "wbkb",
+  "tenant": "405079647064163909"
+ },
+ {
+  "team_id": "408019367083639869",
+  "school": "Rochester Community and Technical College",
+  "region": "Region XIII",
+  "sport": "wbkb",
+  "tenant": "405079647307433628"
+ },
+ {
+  "team_id": "418346467669837075",
+  "school": "United Tribes Technical College",
+  "region": "Region XIII",
+  "sport": "wbkb",
+  "tenant": "405079647223547503"
+ },
+ {
+  "team_id": "407509480729740475",
+  "school": "Orange County Community College",
+  "region": "Region XV",
+  "sport": "wbkb",
+  "tenant": "405079647189993063"
+ },
+ {
+  "team_id": "412677558589458303",
+  "school": "Rockland Community College",
+  "region": "Region XV",
+  "sport": "wbkb",
+  "tenant": "405079647340988092"
+ },
+ {
+  "team_id": "413279497895282166",
+  "school": "Westchester Community College",
+  "region": "Region XV",
+  "sport": "wbkb",
+  "tenant": "405079648045631468"
+ },
+ {
+  "team_id": "406053391689582482",
+  "school": "Jefferson College",
+  "region": "Region XVI",
+  "sport": "wbkb",
+  "tenant": "405079648087574525"
+ },
+ {
+  "team_id": "412633031564592622",
+  "school": "Metropolitan Community College",
+  "region": "Region XVI",
+  "sport": "wbkb",
+  "tenant": "405079647131272791"
+ },
+ {
+  "team_id": "407759866132694937",
+  "school": "North Central Missouri College",
+  "region": "Region XVI",
+  "sport": "wbkb",
+  "tenant": "405079647131272792"
+ },
+ {
+  "team_id": "412681626451969344",
+  "school": "St. Louis Community College",
+  "region": "Region XVI",
+  "sport": "wbkb",
+  "tenant": "405079647131272793"
+ },
+ {
+  "team_id": "412529481186542594",
+  "school": "Big Bend Community College",
+  "region": "Region XVIII",
+  "sport": "wbkb",
+  "tenant": "405079646762173952"
+ },
+ {
+  "team_id": "422455707200128219",
+  "school": "Clackamas Community College",
+  "region": "Region XVIII",
+  "sport": "wbkb",
+  "tenant": "405079648112739341"
+ },
+ {
+  "team_id": "413922206129587269",
+  "school": "Pacific Northwest Christian College",
+  "region": "Region XVIII",
+  "sport": "wbkb",
+  "tenant": "413919748049340163"
+ },
+ {
+  "team_id": "413279435467261764",
+  "school": "Southwestern Oregon Community College",
+  "region": "Region XVIII",
+  "sport": "wbkb",
+  "tenant": "405079648154682403"
+ },
+ {
+  "team_id": "406143927897294388",
+  "school": "Umpqua Community College",
+  "region": "Region XVIII",
+  "sport": "wbkb",
+  "tenant": "405079648163071015"
+ },
+ {
+  "team_id": "406156327560152366",
+  "school": "County College of Morris",
+  "region": "Region XIX",
+  "sport": "wbkb",
+  "tenant": "405079647156438622"
+ },
+ {
+  "team_id": "418346465941784197",
+  "school": "Delaware Technical Community College",
+  "region": "Region XIX",
+  "sport": "wbkb",
+  "tenant": "405079646862837269"
+ },
+ {
+  "team_id": "407475936296961090",
+  "school": "Essex County College",
+  "region": "Region XIX",
+  "sport": "wbkb",
+  "tenant": "405079647156438623"
+ },
+ {
+  "team_id": "407475940113777816",
+  "school": "Harcum College",
+  "region": "Region XIX",
+  "sport": "wbkb",
+  "tenant": "405079647257101945"
+ },
+ {
+  "team_id": "430419295067964499",
+  "school": "Harrisburg Area Community College",
+  "region": "Region XIX",
+  "sport": "wbkb",
+  "tenant": "405079648003688396"
+ },
+ {
+  "team_id": "413844419893004212",
+  "school": "Mercer County Community College",
+  "region": "Region XIX",
+  "sport": "wbkb",
+  "tenant": "405079647156438624"
+ },
+ {
+  "team_id": "418346472518452348",
+  "school": "Middlesex College",
+  "region": "Region XIX",
+  "sport": "wbkb",
+  "tenant": "405079648012077011"
+ },
+ {
+  "team_id": "418346469037180491",
+  "school": "Raritan Valley Community College",
+  "region": "Region XIX",
+  "sport": "wbkb",
+  "tenant": "405079647315822244"
+ },
+ {
+  "team_id": "418346467393012861",
+  "school": "Salem Community College",
+  "region": "Region XIX",
+  "sport": "wbkb",
+  "tenant": "405079647164827233"
+ },
+ {
+  "team_id": "418346469104289370",
+  "school": "Sussex County Community College",
+  "region": "Region XIX",
+  "sport": "wbkb",
+  "tenant": "405079647315822245"
+ },
+ {
+  "team_id": "418346469322393205",
+  "school": "Union College of Union County, New Jersey",
+  "region": "Region XIX",
+  "sport": "wbkb",
+  "tenant": "405079647315822246"
+ },
+ {
+  "team_id": "406162363692090724",
+  "school": "Anne Arundel Community College",
+  "region": "Region XX",
+  "sport": "wbkb",
+  "tenant": "405079647282267783"
+ },
+ {
+  "team_id": "414004241196123619",
+  "school": "CCBC Catonsville",
+  "region": "Region XX",
+  "sport": "wbkb",
+  "tenant": "414002991402583604"
+ },
+ {
+  "team_id": "413978119716734227",
+  "school": "CCBC Essex",
+  "region": "Region XX",
+  "sport": "wbkb",
+  "tenant": "413968300423251501"
+ },
+ {
+  "team_id": "407475945675425023",
+  "school": "Cecil College",
+  "region": "Region XX",
+  "sport": "wbkb",
+  "tenant": "405079647030609467"
+ },
+ {
+  "team_id": "407475946052912394",
+  "school": "Chesapeake College",
+  "region": "Region XX",
+  "sport": "wbkb",
+  "tenant": "405079646233691536"
+ },
+ {
+  "team_id": "407475944819786985",
+  "school": "College of Southern Maryland",
+  "region": "Region XX",
+  "sport": "wbkb",
+  "tenant": "405079647038998076"
+ },
+ {
+  "team_id": "407475939677570189",
+  "school": "Community College of Beaver County",
+  "region": "Region XX",
+  "sport": "wbkb",
+  "tenant": "405079647257101944"
+ },
+ {
+  "team_id": "406093009776543237",
+  "school": "Frederick Community College",
+  "region": "Region XX",
+  "sport": "wbkb",
+  "tenant": "405079646250468754"
+ },
+ {
+  "team_id": "406094430328588191",
+  "school": "Garrett College",
+  "region": "Region XX",
+  "sport": "wbkb",
+  "tenant": "405079646242080145"
+ },
+ {
+  "team_id": "407475942621971638",
+  "school": "Hagerstown Community College",
+  "region": "Region XX",
+  "sport": "wbkb",
+  "tenant": "405079646250468755"
+ },
+ {
+  "team_id": "407418179170600611",
+  "school": "Howard Community College",
+  "region": "Region XX",
+  "sport": "wbkb",
+  "tenant": "405079647047386685"
+ },
+ {
+  "team_id": "407475945255994612",
+  "school": "Montgomery College",
+  "region": "Region XX",
+  "sport": "wbkb",
+  "tenant": "405079646258857365"
+ },
+ {
+  "team_id": "407475937957905509",
+  "school": "Penn Highlands Community College",
+  "region": "Region XX",
+  "sport": "wbkb",
+  "tenant": "405079648171459636"
+ },
+ {
+  "team_id": "407475943519552716",
+  "school": "Prince George's Community College",
+  "region": "Region XX",
+  "sport": "wbkb",
+  "tenant": "405079647047386686"
+ },
+ {
+  "team_id": "407475939207808130",
+  "school": "Westmoreland County Community College",
+  "region": "Region XX",
+  "sport": "wbkb",
+  "tenant": "405079647357765323"
+ },
+ {
+  "team_id": "407475938343781488",
+  "school": "WVU Potomac State College",
+  "region": "Region XX",
+  "sport": "wbkb",
+  "tenant": "405079646770562561"
+ },
+ {
+  "team_id": "412629446407751586",
+  "school": "Massasoit Community College",
+  "region": "Region XXI",
+  "sport": "wbkb",
+  "tenant": "405079647047386687"
+ },
+ {
+  "team_id": "418346457695782883",
+  "school": "Chattahoochee Valley Community College",
+  "region": "Region XXII",
+  "sport": "wbkb",
+  "tenant": "405079645856204068"
+ },
+ {
+  "team_id": "418346475395745429",
+  "school": "Coastal Alabama Community College - North",
+  "region": "Region XXII",
+  "sport": "wbkb",
+  "tenant": "417493488154707852"
+ },
+ {
+  "team_id": "406088015845263075",
+  "school": "Enterprise State Community College",
+  "region": "Region XXII",
+  "sport": "wbkb",
+  "tenant": "405079645872981287"
+ },
+ {
+  "team_id": "413922000096986252",
+  "school": "Lurleen B Wallace Community College",
+  "region": "Region XXII",
+  "sport": "wbkb",
+  "tenant": "405079645881369898"
+ },
+ {
+  "team_id": "406134432966116645",
+  "school": "Reid State Community College",
+  "region": "Region XXII",
+  "sport": "wbkb",
+  "tenant": "405079647953356720"
+ },
+ {
+  "team_id": "412688798552426025",
+  "school": "Snead State Community College",
+  "region": "Region XXII",
+  "sport": "wbkb",
+  "tenant": "405079645898147118"
+ },
+ {
+  "team_id": "413922000382198939",
+  "school": "Wallace Community College - Selma",
+  "region": "Region XXII",
+  "sport": "wbkb",
+  "tenant": "405079645914924337"
+ },
+ {
+  "team_id": "406069699437135279",
+  "school": "Danville Area Community College",
+  "region": "Region XXIV",
+  "sport": "wbkb",
+  "tenant": "405079646879614491"
+ },
+ {
+  "team_id": "407419320407164811",
+  "school": "Illinois Central College",
+  "region": "Region XXIV",
+  "sport": "wbkb",
+  "tenant": "405079646896391710"
+ },
+ {
+  "team_id": "407495551521654168",
+  "school": "John Wood Community College",
+  "region": "Region XXIV",
+  "sport": "wbkb",
+  "tenant": "405079646904780320"
+ },
+ {
+  "team_id": "407495554373780957",
+  "school": "Kaskaskia College",
+  "region": "Region XXIV",
+  "sport": "wbkb",
+  "tenant": "405079646074307943"
+ },
+ {
+  "team_id": "412618003222366028",
+  "school": "Lake Land College",
+  "region": "Region XXIV",
+  "sport": "wbkb",
+  "tenant": "405079646082696553"
+ },
+ {
+  "team_id": "407495553912407506",
+  "school": "Lewis and Clark Community College",
+  "region": "Region XXIV",
+  "sport": "wbkb",
+  "tenant": "405079646913168929"
+ },
+ {
+  "team_id": "407495553509754311",
+  "school": "Lincoln Land Community College",
+  "region": "Region XXIV",
+  "sport": "wbkb",
+  "tenant": "405079646913168930"
+ },
+ {
+  "team_id": "407495555170698730",
+  "school": "Parkland College",
+  "region": "Region XXIV",
+  "sport": "wbkb",
+  "tenant": "405079646963500584"
+ },
+ {
+  "team_id": "407495551949473187",
+  "school": "Spoon River College",
+  "region": "Region XXIV",
+  "sport": "wbkb",
+  "tenant": "405079646980277804"
+ }
+]
