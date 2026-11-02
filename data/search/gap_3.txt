@@ -1,0 +1,28 @@
+Arkansas State University Mid-South | men:FORMAT=Ben Tanoff; women:FORMAT=Tysia Manuel | https://www.asumidsouthsports.com/landing/index
+Blackhawk Technical College | men:FORMAT=Donte Burt | https://athletics.blackhawk.edu/
+CCBC Catonsville | men:FIND; women:FIND | 
+Cape Fear Community College | women:FORMAT=Taylor Todd-Williams | https://www.goseadevils.com/landing/index
+Central Community College Columbus | men:FORMAT=Tyler Francis; women:FORMAT=Kasi Stoltz | https://www.cccraiders.com/landing/index
+Clackamas Community College | men:FORMAT=Brian Stamme; women:FORMAT=Jim Martineau | https://www.clackamascougars.com/
+County College of Morris | women:FIND | https://ccmathletics.com/landing/index
+Delaware Technical Community College | men:FIND; women:FIND | https://www.dtcc.edu/athletics
+Des Moines Area Community College | men:FORMAT=Blake Sandquist; women:FORMAT=Jocelyn Kovarik | https://www.dmaccbears.com/landing/index
+Essex County College | women:FORMAT=Jahreal Cadogan | https://www.essexwolverines.com/landing/index
+Gogebic Community College | women:FORMAT=Ward Helakoski | https://gogebicsamsons.com/landing/index
+Henry Ford College | men:FIND=Chris Shepard; women:FIND | https://www.hfcc.edu/athletics
+Iowa Western Community College | men:FORMAT=Andy Shaw; women:FORMAT=Zach Loll | https://www.goreivers.com/landing/index
+Johnson County | men:FIND; women:FIND | 
+Lakeland Community College | women:FORMAT=Julie Hajdu | https://athletics.lakelandcc.edu/landing/index
+Marian University Plymouth | men:FORMAT=Ted Hayden; women:FIND | https://marianplymouthchargers.com/landing/index
+Mesa Community College | men:FORMAT=Lester Neal; women:FIND | https://mesatbirdsports.com/landing/index
+Middlesex College | men:FIND; women:FIND | https://middlesexcoltsathletics.com/landing/index
+North Central Missouri College | men:FORMAT=Jeremy Esry; women:FIND | https://ncmcpirates.com/landing/index
+Pacific Northwest Christian College | women:FIND | https://pnwccgladiators.com/
+Penn Highlands Community College | men:FIND=Email Chris Weakley; women:FIND=Email Chris Weakley | https://www.pennhighlands.edu/student-life/athletics/
+Prince George's Community College | men:FORMAT=Terrell Harris; women:FIND | https://www.pgccowls.com/landing/index
+Rochester Community and Technical College | women:FORMAT=Sam Barnes | https://www.rctcyellowjackets.com/landing/index
+Shorter College | men:FIND | https://shortercollege.edu/student-life/athletics/
+South Suburban College | women:FIND | https://www.ssc.edu/athletics
+Southern Arkansas University Tech | men:FIND; women:FIND | https://sautrockets.com/
+University of Arkansas Cossatot | men:FORMAT=Stanley Asumnu; women:FIND | https://uacossatotcolts.com/landing/index
+Westchester Community College | men:FIND; women:FIND | https://www.sunywcc.edu/about/offices-resources/student-affairs/student-life/athletics/
