@@ -1,6 +1,8 @@
 # Coach Finding: Fast, Unattended, Code-Based
 
-How to build a college coach contact list (name + email) for any NJCAA division and sport, using **Claude Code on your own computer** and the scripts in this repo.
+How to build a college coach contact list (name + email) for any NJCAA division and sport, using the **Claude desktop app's Code tab** (Claude Code) on your own computer and the scripts in this repo.
+
+> Use the **Code** tab, not the regular Chat tab. Chat can't run scripts in a folder on your computer, keep files between steps, or launch helper agents, which is the same limit as ChatGPT in a browser. The Code tab can do all three, and no terminal is needed.
 
 This replaces the "ChatGPT in a browser tab" approach. That approach is slow because it does one page at a time, stops when you walk away, and keeps no files or code. Here, code does about 90% of the work on its own, and AI only handles the leftovers.
 
@@ -26,7 +28,7 @@ This replaces the "ChatGPT in a browser tab" approach. That approach is slow bec
    - Python 3.11+ (python.org)
    - Node.js 20+ (nodejs.org)
    - Git
-   - **Claude Code**: the Claude desktop app (Code tab) or the CLI (`npm install -g @anthropic-ai/claude-code`)
+   - The **Claude desktop app** (claude.ai/download). You'll use its **Code** tab. (The command-line version of Claude Code works the same if you prefer it.)
 2. **Get the repo and libraries.** In a terminal:
    ```bash
    git clone https://github.com/emilebragard/C11A-Git-on-Github.git
@@ -40,8 +42,8 @@ This replaces the "ChatGPT in a browser tab" approach. That approach is slow bec
    ```bash
    npm install playwright && npx playwright install chromium
    ```
-3. **Open the folder in Claude Code.** It reads `CLAUDE.md` automatically. That file holds the budget and scraping rules, so Claude follows them without being told.
-4. **Allow common commands** so Claude doesn't stop and wait for you to click "approve" while you're away. In Claude Code, run `/permissions` and allow `Bash(python3 scraper/*)`, `Bash(node scraper/*)`, and `Bash(git *)`, or turn on auto mode. **This is the #1 reason things stall when you're away.**
+3. **In the desktop app, open the Code tab and choose this folder.** It reads `CLAUDE.md` automatically. That file holds the budget and scraping rules, so Claude follows them without being told.
+4. **Allow common commands** so Claude doesn't stop and wait for you to click "approve" while you're away. In the Code tab, type `/permissions` and allow `Bash(python3 scraper/*)`, `Bash(node scraper/*)`, and `Bash(git *)`, or turn on auto mode. **This is the #1 reason things stall when you're away.**
 5. **Keep the computer awake during long runs:**
    - **Mac:** run `caffeinate -i` in a spare terminal.
    - **Windows:** Settings → Power → Screen and sleep → Never (while plugged in).
