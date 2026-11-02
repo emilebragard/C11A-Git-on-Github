@@ -1,6 +1,6 @@
 # NJCAA D2 Women's Basketball Head Coaches
 
-**130 of 153 teams have a head coach email (85%).** High: 82 · Format confirmed: 5 · Guessed: 23 · Unconfirmed: 20 · Name only: 19 · Not found: 4. Last updated 2026-11-02.
+**129 of 153 teams have a head coach email (84%).** High: 95 · Format confirmed: 5 · Guessed: 23 · Unconfirmed: 6 · Name only: 20 · Not found: 4. Last updated 2026-11-02.
 
 | School | Head coach | Email | Confidence |
 |---|---|---|---|
@@ -33,16 +33,16 @@
 | College of DuPage | Kristin Ison | isonk@cod.edu | High |
 | College of Lake County | Tanner Morris | jmorris11@clcillinois.edu | High |
 | College of Southern Maryland | Davon Muhammad | djmuhammad2@csmd.edu | High |
-| Community College of Beaver County | Seairra Barrett | seairra.barrett@ccbc.edu | Unconfirmed (verify) |
+| Community College of Beaver County | Seairra Barrett | — | Name only |
 | County College of Morris | Ryan Donahue | — | Name only |
 | Cuyahoga Community College | Dion Griffin | dion.griffin@tri-c.edu | High |
 | Dakota College at Bottineau | Nate Simpson | n.simpson@dakotacollege.edu | Guessed (verify) |
 | Danville Area Community College | Kyle Bent | k.bent@dacc.edu | High |
 | Delaware Technical Community College | Brittany Ford | — | Name only |
 | Delta College | Jason Brown | — | Name only |
-| Denmark Technical College | Javon Gilliard | gilliardj@denmarktecch.edu | Unconfirmed (verify) |
+| Denmark Technical College | Javon Gilliard | gilliardj@denmarktech.edu | High |
 | Des Moines Area Community College | Jocelyn Kovarik | jrkovarik@dmacc.edu | High |
-| Edison State Community College | Tim McMahon | tmcmahon@edisonohio.edu | Unconfirmed (verify) |
+| Edison State Community College | Tim McMahon | tmcmahon@edisonohio.edu | High |
 | Elgin Community College | Eumeka Aguado | eaguado@elgin.edu | High |
 | Ellsworth Community College | Justin Rees | justin.rees@iavalley.edu | High |
 | Enterprise State Community College | George Scott | gscott@escc.edu | Guessed (verify) |
@@ -53,11 +53,11 @@
 | Frederick Community College | Darien Wingate | dwingate@frederick.edu | High |
 | Garrett College | JT Lewis | jt.lewis@garrettcollege.edu | High |
 | Gateway Community College-AZ | — | — | Not found yet |
-| Glen Oaks Community College | Emilee Hendron | ehendron188@glenoaks.edu | Unconfirmed (verify) |
-| Glendale Community College | Ernest Shand | ernest.shand@gccaz.edu | Unconfirmed (verify) |
+| Glen Oaks Community College | Emilee Hendron | ehendron188@glenoaks.edu | High |
+| Glendale Community College | Ernest Shand | ernest.shand@gccaz.edu | High |
 | Gogebic Community College | Ward Helakoski | helakoskiw@gogebic.edu | Good (format confirmed) |
 | Grand Rapids Community College | David Glazier | dglazier@grcc.edu | High |
-| Guilford Technical Community College | Erica Handy | ehandy@gtcc.edu | Unconfirmed (verify) |
+| Guilford Technical Community College | Erica Handy | ehandy@gtcc.edu | High |
 | Hagerstown Community College | Cindy Wilhelm | cdwilhelm@hagerstowncc.edu | High |
 | Harcum College | Garrett Horton | — | Name only |
 | Harper College | Jodi Marver | mj29115@harpercollege.edu | High |
@@ -72,7 +72,7 @@
 | Iowa Western Community College | Zach Loll | zloll@iwcc.edu | High |
 | Jackson College | Courtney Ivan | ivancourtnea@jccmi.edu | Unconfirmed (verify) |
 | Jamestown Community College | David Turnbull | davidturnbull@mail.sunyjcc.edu | Guessed (verify) |
-| Jefferson College | Cornelius Walker | cwalker7@jeffco.edu | Unconfirmed (verify) |
+| Jefferson College | Cornelius Walker | cwalker7@jeffco.edu | High |
 | John Wood Community College | Kelly Koetters | klkoetters@jwcc.edu | High |
 | Johnson County | Ben Conrad | bconrad5@jccc.edu | High |
 | Kalamazoo Valley Community College | Arom Murrell | — | Name only |
@@ -85,12 +85,12 @@
 | Kishwaukee College | Tre Jackson | tjackson12@kish.edu | High |
 | Labette Community College | Gabby Cortez | gabriellac@labette.edu | High |
 | Lake Land College | Dave Johnson | djohnson@lakelandcollege.edu | High |
-| Lake Michigan College | Brandon Humphrey | bhumphrey@lakemichigancollege.edu | Unconfirmed (verify) |
-| Lakeland Community College | Ornette Gardenhire | ogardenhire1@lakelandcc.edu | Unconfirmed (verify) |
+| Lake Michigan College | Brandon Humphrey | bhumphrey@lakemichigancollege.edu | High |
+| Lakeland Community College | Ornette Gardenhire | ogardenhire1@lakelandcc.edu | High |
 | Lansing Community College | Megan Hudson | hudsom21@lcc.edu | High |
 | Lewis and Clark Community College | Isaac Moore | imoore@lc.edu | Guessed (verify) |
 | Lincoln Land Community College | Chad Jones | chad.jones@llcc.edu | High |
-| Louisburg College | Dennis L. Gaskins Jr. | dgaskins@louisburg.edu | Unconfirmed (verify) |
+| Louisburg College | Dennis L. Gaskins Jr. | dgaskins@louisburg.edu | High |
 | Lurleen B Wallace Community College | Connor Williams | cwilliams@lbwcc.edu | High |
 | Macomb Community College | Kirk Carolan | carolank524@macomb.edu | High |
 | Madison College | Angel Whetstone | awhetstone@madisoncollege.edu | High |
@@ -115,13 +115,13 @@
 | North Iowa Area Community College | Brad Vaught | bradley.vaught@niacc.edu | High |
 | Northeast Community College | Matt Svehla | matt@northeast.edu | High |
 | Oakton College | Tony Siriscevich Jr. | — | Name only |
-| Orange County Community College | Micah Brand | micah.brand@sunyorange.edu | Unconfirmed (verify) |
+| Orange County Community College | Micah Brand | micah.brand@sunyorange.edu | High |
 | Pacific Northwest Christian College | — | — | Not found yet |
 | Palm Beach State College | Maureen Smith | — | Name only |
 | Parkland College | Jean Demosthenes | jdemosthenes@parkland.edu | High |
 | Penn Highlands Community College | Chris Weakley | — | Name only |
 | Phillips Community College of the University of Arkansas | Johnson, Jr., Sammy | sjohnson@pccua.edu | High |
-| Phoenix College | Prayer Branham | prayer.branham@phoenixcollege.edu | Unconfirmed (verify) |
+| Phoenix College | Prayer Branham | prayer.branham@phoenixcollege.edu | High |
 | Pima Community College | Todd Holthaus | tcholthaus@pima.edu | High |
 | Prairie State College | Mari Neberieza | mneberieza@prairiestate.edu | High |
 | Prince George's Community College | Devin May | womensbasketball@pgcc.edu | High |
@@ -132,7 +132,7 @@
 | Rock Valley College | Darryl  Watkins | d.watkins@rockvalleycollege.edu | High |
 | Rockland Community College | Ben Newberg | ben.newberg@sunyrockland.edu | Guessed (verify) |
 | SUNY Niagara | Bill Shaw | wshaw@niagaracc.suny.edu | High |
-| Salem Community College | Brian Marsh | bmarsh@salemcc.edu | Unconfirmed (verify) |
+| Salem Community College | Brian Marsh | bmarsh@salemcc.edu | High |
 | Sandhills Community College | — | — | Not found yet |
 | Scottsdale Community College | Tasha Washington | latasha.washington@scottsdalecc.edu | High |
 | Snead State Community College | Kenny Hill | kenny.hill@snead.edu | Guessed (verify) |
@@ -140,7 +140,7 @@
 | South Mountain Community College | Sabah Dickerson | sabah.dickerson@southmountaincc.edu | Guessed (verify) |
 | South Suburban College | Kevin Green | kgreen@ssc.edu | Guessed (verify) |
 | Southeast Arkansas College | Chad Killinger | — | Name only |
-| Southeastern Community College - Iowa | Chevis Thompson | cthompson1@scciowa.edu | Unconfirmed (verify) |
+| Southeastern Community College - Iowa | Chevis Thompson | cthompson1@scciowa.edu | High |
 | Southern Arkansas University Tech | Aramie Brooks | abrooks@sautech.edu | Guessed (verify) |
 | Southwestern Community College (IA) | Ty Curry | tcurry@swcciowa.edu | Guessed (verify) |
 | Southwestern Oregon Community College | Zac Olson | zac.olson@socc.edu | High |

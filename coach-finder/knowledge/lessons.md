@@ -10,3 +10,5 @@
 - 2026-11-02: The NCAA Directory (web3.ncaa.org) lists every head coach's name per sport, so NCAA runs only need emails.
 - 2026-11-02: Region and conference sites don't list coach emails, but NJCAA region directors will share lists by email.
 - 2026-11-02: Hunter Email-Verifier on 16 search-found (tier D) basketball emails: 14 valid, 2 accept_all, 0 invalid, for 8 credits. Search-found emails are mostly real; Hunter turns them into tier A cheaply. Hunter's sources also show whether a page still lists the coach (`still_on_page`), which is a free hint about whether they're current.
+- 2026-11-02: Second half of tier D (18 emails): 12 valid, 4 accept_all, 1 invalid, plus 1 typo domain fixed with Email-Finder. Across all 34 checked: 26 valid, 6 accept_all, 1 invalid. Search-found emails are ~97% deliverable.
+- 2026-11-02: Typo in a source email's domain (denmarktecch.edu): don't fix it by hand and verify (that's building an email). Use Hunter Email-Finder with the name + correct domain.
