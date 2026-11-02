@@ -11,7 +11,7 @@ for f in sorted(glob.glob('data/search/batch_*.csv')):
         email = (r.get('email') or '').strip().lower()
         if email and not re.fullmatch(r'[\w.+-]+@[\w-]+(\.[\w-]+)+', email): email = ''
         found[(r['school'].strip(), sp)] = r | {'email': email}
-F = ['school','sport','role','name','title','email','email_source','phone','url','status']
+F = ['school','sport','role','name','title','email','email_source','url','status']
 rows = list(csv.DictReader(open('data/coaches.csv')))
 out, used = [], 0
 for r in rows:

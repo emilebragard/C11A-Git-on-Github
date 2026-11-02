@@ -55,7 +55,7 @@ for r in rows:
     if k not in seen: seen.add(k); out.append(r)
 # add missing teams as placeholder rows
 have = {(r['school'], r['sport']) for r in out if r['role'] == 'head'}
-F = ['school','sport','role','name','title','email','email_source','phone','url','status']
+F = ['school','sport','role','name','title','email','email_source','url','status']
 for s in schools.values():
     for sp in ['mbkb','wbkb']:
         if s[sp + '_id'] and (s['school'], sp) not in have:

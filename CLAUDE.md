@@ -30,4 +30,4 @@
 - Scrape politely: 1-2 req/s per domain, respect robots.txt.
 
 ## Output
-`data/coaches.csv`: school, sport, name, title, email, email_source, phone, url, status
+`data/coaches.csv`: school, sport, role, name, title, email, email_source, url, status, tier, dept_contact (no phone numbers)
