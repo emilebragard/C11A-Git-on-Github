@@ -12,7 +12,7 @@ for f in sorted(glob.glob('data/search/batch_*.csv')):
         if email and not re.fullmatch(r'[\w.+-]+@[\w-]+(\.[\w-]+)+', email): email = ''
         found[(r['school'].strip(), sp)] = r | {'email': email}
 F = ['school','sport','role','name','title','email','email_source','url','status']
-rows = list(csv.DictReader(open('data/coaches.csv')))
+rows = list(csv.DictReader(open('data/coaches.csv'))); F = [f for f in rows[0] if f != 'phone']
 out, used = [], 0
 for r in rows:
     k = (r['school'], r['sport'])
@@ -20,7 +20,7 @@ for r in rows:
         s = found[k]; used += 1
         conf = (s.get('confidence') or 'low').strip().lower()
         r.update(name=s['name'].strip(), title=(s.get('title') or 'Head Coach').strip(), email=s['email'],
-                 email_source='web_search' if s['email'] else '', phone=(s.get('phone') or '').strip(),
+                 email_source='web_search' if s['email'] else '',
                  url=(s.get('source_url') or r['url']).strip(),
                  status=f'search_{conf}_verify' if s['email'] else f'search_name_only_{conf}')
     out.append(r)
