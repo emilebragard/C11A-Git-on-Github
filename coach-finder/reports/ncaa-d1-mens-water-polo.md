@@ -1,6 +1,6 @@
 # NCAA D1 Men's Water Polo Head Coaches
 
-**8 of 30 teams have a head coach email (27%).** High: 3 · Format confirmed: 4 · Guessed: 1 · Unconfirmed: 0 · Name only: 22 · Not found: 0. Last updated 2026-11-02.
+**8 of 30 teams have a head coach email (27%).** High: 4 · Format confirmed: 4 · Guessed: 0 · Unconfirmed: 0 · Name only: 22 · Not found: 0. Last updated 2026-11-03.
 
 | School | Head coach | Email | Confidence |
 |---|---|---|---|
@@ -24,7 +24,7 @@
 | Santa Clara University | Keith Wilbur | — | Name only |
 | Stanford University | Brian Flacks | — | Name only |
 | U.S. Air Force Academy | Ryan Brown | — | Name only |
-| U.S. Naval Academy | Luis Nicolao | luisnicolao@usna.edu | Guessed (verify) |
+| U.S. Naval Academy | Luis Nicolao | nicolao@usna.edu | High |
 | University of California, Berkeley | Kirk Everist | — | Name only |
 | University of California, Davis | Daniel Leyson | — | Name only |
 | University of California, Irvine | Dan Klatt | — | Name only |

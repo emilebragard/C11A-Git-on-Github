@@ -1,15 +1,15 @@
 # NJCAA D2 Men's Basketball Head Coaches
 
-**136 of 152 teams have a head coach email (89%).** High: 108 · Format confirmed: 7 · Guessed: 18 · Unconfirmed: 3 · Name only: 12 · Not found: 4. Last updated 2026-11-02.
+**136 of 152 teams have a head coach email (89%).** High: 110 · Format confirmed: 7 · Guessed: 16 · Unconfirmed: 3 · Name only: 12 · Not found: 4. Last updated 2026-11-03.
 
 | School | Head coach | Email | Confidence |
 |---|---|---|---|
 | Allen Community College | Patrick Nee | nee@allencc.edu | High |
 | Alpena Community College | Bobby Allen | allenb@alpenacc.edu | High |
 | Anne Arundel Community College | Delonte Joyce | djoyce1@aacc.edu | High |
-| Arkansas State University Mid-South | Ben Tanoff | btanoff@asumidsouth.edu | Guessed (verify) |
+| Arkansas State University Mid-South | Ben Tanoff | ben.tanoff@asumidsouth.edu | High |
 | Bay College | Mike Cretens | mike.cretens@baycollege.edu | Guessed (verify) |
-| Bevill State Community College | Daniel Foy | daniel.foy@bscc.edu | Guessed (verify) |
+| Bevill State Community College | Daniel Foy | daniel.foy@bscc.edu | High |
 | Big Bend Community College | Dallin Spencer | dallins@bigbend.edu | High |
 | Black Hawk College | Kannon Burrage | burragek@bhc.edu | High |
 | Blackhawk Technical College | Donte Burt | dburt@blackhawk.edu | Good (format confirmed) |

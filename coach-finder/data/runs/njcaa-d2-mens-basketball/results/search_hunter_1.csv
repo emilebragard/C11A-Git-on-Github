@@ -1,0 +1,3 @@
+school,name,title,email,source_url,confidence,example_staff_emails,dept_contact,verdict,note
+Arkansas State University Mid-South,Ben Tanoff,,ben.tanoff@asumidsouth.edu,,high,,,,"Hunter Email-Finder score 95, valid (Hunter-inferred); replaces guess btanoff@"
+Bevill State Community College,Daniel Foy,,daniel.foy@bscc.edu,,high,,,,"Hunter Email-Finder score 96, valid; matches our guess"
